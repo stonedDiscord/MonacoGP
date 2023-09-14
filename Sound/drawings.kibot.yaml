@@ -11,8 +11,23 @@ outputs:
     dir: drawings
     options:
       output: front-drawn.jpg
-      width: 1230
-      height: 1040
+      width: 1300
+      height: 960
       auto_crop: true
       zoom: 5
       rotate_x: 2
+      background1: '#000000'
+
+  - name: 'drawb'
+    comment: "Drawings to compare the original bottom side against"
+    type: render_3d
+    dir: drawings
+    options:
+      output: back-drawn.jpg
+      view: bottom
+      width: 1300
+      height: 960
+      auto_crop: true
+      zoom: 5
+      rotate_x: 2
+      background1: '#000000'

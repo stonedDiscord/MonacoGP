@@ -959,7 +959,7 @@
   (symbol (lib_id "Device:C_Polarized") (at 132.08 352.425 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 58758abe-7de0-4cc9-8836-85f3d1149486)
-    (property "Reference" "C4" (at 135.89 350.266 0)
+    (property "Reference" "C107" (at 135.89 350.266 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "C_Polarized" (at 135.89 352.806 0)
@@ -976,7 +976,7 @@
     (instances
       (project "Sound"
         (path "/a407fd57-8838-4f19-a49b-e173f62ac1a7"
-          (reference "C4") (unit 1)
+          (reference "C107") (unit 1)
         )
       )
     )
@@ -985,7 +985,7 @@
   (symbol (lib_id "Device:C_Polarized") (at 391.16 379.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5c723259-eae8-4976-9f0b-339f4f1071ac)
-    (property "Reference" "C5" (at 394.97 377.571 0)
+    (property "Reference" "C109" (at 394.97 377.571 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "C_Polarized" (at 394.97 380.111 0)
@@ -1002,7 +1002,7 @@
     (instances
       (project "Sound"
         (path "/a407fd57-8838-4f19-a49b-e173f62ac1a7"
-          (reference "C5") (unit 1)
+          (reference "C109") (unit 1)
         )
       )
     )
@@ -1349,7 +1349,7 @@
   (symbol (lib_id "Device:C_Polarized") (at 402.59 380.365 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ba6f26ba-4634-4c83-afcd-9462806d783b)
-    (property "Reference" "C6" (at 406.4 378.206 0)
+    (property "Reference" "C110" (at 406.4 378.206 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "C_Polarized" (at 406.4 380.746 0)
@@ -1366,7 +1366,7 @@
     (instances
       (project "Sound"
         (path "/a407fd57-8838-4f19-a49b-e173f62ac1a7"
-          (reference "C6") (unit 1)
+          (reference "C110") (unit 1)
         )
       )
     )
@@ -1413,7 +1413,7 @@
   (symbol (lib_id "Device:C_Polarized") (at 143.51 353.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e91f8751-c713-46bc-91ce-61667a9c66f6)
-    (property "Reference" "C3" (at 147.32 350.901 0)
+    (property "Reference" "C108" (at 147.32 350.901 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "C_Polarized" (at 147.32 353.441 0)
@@ -1430,7 +1430,7 @@
     (instances
       (project "Sound"
         (path "/a407fd57-8838-4f19-a49b-e173f62ac1a7"
-          (reference "C3") (unit 1)
+          (reference "C108") (unit 1)
         )
       )
     )
