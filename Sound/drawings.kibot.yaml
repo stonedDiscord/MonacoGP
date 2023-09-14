@@ -1,0 +1,18 @@
+kiplot:
+  version: 1
+
+preflight:
+  ignore_unconnected: true
+
+outputs:
+  - name: 'drawt'
+    comment: "Drawings to compare the original top side against"
+    type: render_3d
+    dir: drawings
+    options:
+      output: front-drawn.jpg
+      width: 1230
+      height: 1040
+      auto_crop: true
+      zoom: 5
+      rotate_x: 2
