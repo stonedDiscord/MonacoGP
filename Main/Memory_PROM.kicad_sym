@@ -94,10 +94,6 @@
         (name "VCC_(PVCC)" (effects (font (size 1.27 1.27))))
         (number "24" (effects (font (size 1.27 1.27))))
       )
-      (pin no_connect line (at 7.62 -7.62 180) (length 2.54) hide
-        (name "NC" (effects (font (size 1.27 1.27))))
-        (number "26" (effects (font (size 1.27 1.27))))
-      )
       (pin input line (at -10.16 0 0) (length 2.54)
         (name "A5" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
