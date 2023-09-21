@@ -13490,7 +13490,7 @@
   (symbol (lib_id "74xx:74LS74") (at -20.955 334.645 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 006b3173-b49d-4d36-9da0-03bdd763c807)
-    (property "Reference" "IC37" (at -12.7 333.375 0)
+    (property "Reference" "U37" (at -12.7 333.375 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS74" (at -12.7 335.915 0)
@@ -13519,7 +13519,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC37") (unit 3)
+          (reference "U37") (unit 3)
         )
       )
     )
@@ -13629,7 +13629,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 763.905 485.775 270) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 014bfa53-d724-4f5a-aac0-b74d2ee9fb25)
-    (property "Reference" "IC51" (at 770.89 484.505 90)
+    (property "Reference" "U51" (at 770.89 484.505 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS279" (at 770.89 487.045 90)
@@ -13660,7 +13660,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC51") (unit 4)
+          (reference "U51") (unit 4)
         )
       )
     )
@@ -13669,7 +13669,7 @@
   (symbol (lib_id "74xx:74LS393") (at 601.98 666.75 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0178952f-35e8-4053-a2a4-96a9656a6546)
-    (property "Reference" "IC52" (at 601.98 657.225 0)
+    (property "Reference" "U52" (at 601.98 657.225 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS393" (at 601.98 659.765 0)
@@ -13698,7 +13698,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC52") (unit 2)
+          (reference "U52") (unit 2)
         )
       )
     )
@@ -13707,7 +13707,7 @@
   (symbol (lib_id "74xx:74LS07") (at 400.685 200.025 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 026f06ea-da2b-4156-96ee-afb54f4a32b2)
-    (property "Reference" "IC31" (at 400.685 191.135 0)
+    (property "Reference" "U31" (at 400.685 191.135 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07P" (at 400.685 193.675 0)
@@ -13748,7 +13748,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC31") (unit 3)
+          (reference "U31") (unit 3)
         )
       )
     )
@@ -13807,7 +13807,7 @@
   (symbol (lib_id "74xx:74LS153") (at 734.695 346.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0419f158-43a3-454d-ab24-c12a68290871)
-    (property "Reference" "IC9" (at 736.8891 321.945 0)
+    (property "Reference" "U9" (at 736.8891 321.945 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS153" (at 736.8891 324.485 0)
@@ -13838,7 +13838,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC9") (unit 1)
+          (reference "U9") (unit 1)
         )
       )
     )
@@ -13847,7 +13847,7 @@
   (symbol (lib_id "74xx:74LS08") (at 689.61 351.79 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 048d2c6a-f660-40af-96ec-86194bdf7b6d)
-    (property "Reference" "IC66" (at 689.6017 342.9 0)
+    (property "Reference" "U66" (at 689.6017 342.9 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 689.6017 345.44 0)
@@ -13876,7 +13876,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC66") (unit 3)
+          (reference "U66") (unit 3)
         )
       )
     )
@@ -13885,7 +13885,7 @@
   (symbol (lib_id "74xx:74LS00") (at -19.685 203.2 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 04aaf5d3-aec7-4a59-8c5e-a5e1f19d5aaa)
-    (property "Reference" "IC12" (at -19.6933 194.31 0)
+    (property "Reference" "U12" (at -19.6933 194.31 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at -19.6933 196.85 0)
@@ -13926,7 +13926,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC12") (unit 2)
+          (reference "U12") (unit 2)
         )
       )
     )
@@ -13935,7 +13935,7 @@
   (symbol (lib_id "74xx:74LS07") (at 393.065 259.08 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 04e50e7d-e8c1-42a9-9549-246f637f7325)
-    (property "Reference" "IC31" (at 393.065 250.19 0)
+    (property "Reference" "U31" (at 393.065 250.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07P" (at 393.065 252.73 0)
@@ -13976,7 +13976,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC31") (unit 2)
+          (reference "U31") (unit 2)
         )
       )
     )
@@ -13985,7 +13985,7 @@
   (symbol (lib_id "74xx:74LS20") (at 633.095 860.425 0) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0543cffa-2ede-4114-a65c-5efb4b1117c3)
-    (property "Reference" "IC47" (at 626.745 859.155 0)
+    (property "Reference" "U47" (at 626.745 859.155 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS20" (at 626.745 861.695 0)
@@ -14012,7 +14012,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC47") (unit 3)
+          (reference "U47") (unit 3)
         )
       )
     )
@@ -14021,7 +14021,7 @@
   (symbol (lib_id "74xx:74LS393") (at 1232.535 74.295 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 06393800-a19a-473c-8179-bc4a4e7297ec)
-    (property "Reference" "IC39" (at 1239.52 73.025 0)
+    (property "Reference" "U39" (at 1239.52 73.025 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS393" (at 1239.52 75.565 0)
@@ -14050,7 +14050,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC39") (unit 3)
+          (reference "U39") (unit 3)
         )
       )
     )
@@ -14059,7 +14059,7 @@
   (symbol (lib_id "74xx:74LS123") (at 793.75 867.41 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 072f8fc0-6e67-456c-a9bc-44558429d190)
-    (property "Reference" "IC119" (at 793.75 855.345 0)
+    (property "Reference" "U119" (at 793.75 855.345 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS123" (at 793.75 857.885 0)
@@ -14090,7 +14090,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC119") (unit 1)
+          (reference "U119") (unit 1)
         )
       )
     )
@@ -14150,7 +14150,7 @@
   (symbol (lib_id "74xx:74LS02") (at 879.475 49.53 0) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 08777eb4-6a5f-4304-95c6-5c32ccfee589)
-    (property "Reference" "IC72" (at 879.475 57.15 0)
+    (property "Reference" "U72" (at 879.475 57.15 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS02" (at 879.475 54.61 0)
@@ -14179,7 +14179,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC72") (unit 4)
+          (reference "U72") (unit 4)
         )
       )
     )
@@ -14188,7 +14188,7 @@
   (symbol (lib_id "74xx:74LS08") (at 1047.75 261.62 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 08dc755b-1965-4b83-8522-9dd84c574e08)
-    (property "Reference" "IC34" (at 1047.7417 254 0)
+    (property "Reference" "U34" (at 1047.7417 254 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 1047.7417 256.54 0)
@@ -14217,7 +14217,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC34") (unit 3)
+          (reference "U34") (unit 3)
         )
       )
     )
@@ -14251,7 +14251,7 @@
   (symbol (lib_id "74xx:74LS20") (at 627.38 597.535 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0a665589-0b5a-46bc-8626-aa40b3d0f56a)
-    (property "Reference" "IC57" (at 633.73 596.2746 90)
+    (property "Reference" "U57" (at 633.73 596.2746 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS20" (at 633.73 598.8146 90)
@@ -14278,7 +14278,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC57") (unit 1)
+          (reference "U57") (unit 1)
         )
       )
     )
@@ -14287,7 +14287,7 @@
   (symbol (lib_id "74xx:74LS193") (at 851.535 172.085 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0b1504a2-39f9-40df-b478-b72c85e0feee)
-    (property "Reference" "IC25" (at 833.755 174.2791 0)
+    (property "Reference" "U25" (at 833.755 174.2791 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS193" (at 836.295 174.2791 0)
@@ -14318,7 +14318,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC25") (unit 1)
+          (reference "U25") (unit 1)
         )
       )
     )
@@ -14404,7 +14404,7 @@
   (symbol (lib_id "74xx:74LS00") (at -20.955 222.25 180) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0ced6169-58df-4d0d-80fe-1a0b9f788100)
-    (property "Reference" "IC12" (at -20.9467 213.36 0)
+    (property "Reference" "U12" (at -20.9467 213.36 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at -20.9467 215.9 0)
@@ -14445,7 +14445,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC12") (unit 4)
+          (reference "U12") (unit 4)
         )
       )
     )
@@ -14454,7 +14454,7 @@
   (symbol (lib_id "74xx:74LS07") (at 1057.275 -10.16 90) (unit 7)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0d5bc7a5-1e23-4e26-a5ed-8d4f65417539)
-    (property "Reference" "IC13" (at 1057.275 -19.05 90)
+    (property "Reference" "U13" (at 1057.275 -19.05 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07" (at 1057.275 -16.51 90)
@@ -14483,7 +14483,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC13") (unit 7)
+          (reference "U13") (unit 7)
         )
       )
     )
@@ -14492,7 +14492,7 @@
   (symbol (lib_id "74xx:74LS02") (at 380.365 45.72 0) (unit 2) (convert 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0ecb22b5-3077-434f-b958-cbbefa0bb83b)
-    (property "Reference" "IC61" (at 380.365 38.1 0)
+    (property "Reference" "U61" (at 380.365 38.1 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS02" (at 380.365 40.64 0)
@@ -14533,7 +14533,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC61") (unit 2)
+          (reference "U61") (unit 2)
         )
       )
     )
@@ -14567,7 +14567,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 777.875 116.205 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1162bcdb-86dc-44ff-875f-377ee0a421c0)
-    (property "Reference" "IC27" (at 777.875 106.68 0)
+    (property "Reference" "U27" (at 777.875 106.68 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS279" (at 777.875 109.22 0)
@@ -14598,7 +14598,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC27") (unit 3)
+          (reference "U27") (unit 3)
         )
       )
     )
@@ -14607,7 +14607,7 @@
   (symbol (lib_id "74xx:74LS86") (at 1056.64 139.065 90) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 11a39556-387e-426c-8c64-ec1dc356bccd)
-    (property "Reference" "IC16" (at 1061.72 138.0998 90)
+    (property "Reference" "U16" (at 1061.72 138.0998 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS86" (at 1061.72 140.6398 90)
@@ -14636,7 +14636,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC16") (unit 4)
+          (reference "U16") (unit 4)
         )
       )
     )
@@ -14645,7 +14645,7 @@
   (symbol (lib_id "74xx:74LS123") (at 676.275 267.335 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 11ed2b6b-a1c5-4979-b617-352cd7049cb5)
-    (property "Reference" "IC1" (at 676.275 254.635 0)
+    (property "Reference" "U1" (at 676.275 254.635 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS123" (at 676.275 257.175 0)
@@ -14676,7 +14676,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC1") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )
@@ -14837,7 +14837,7 @@
   (symbol (lib_id "74xx:74LS86") (at 1086.485 158.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 139493e4-60c1-417d-9566-41dc5ca0b9e1)
-    (property "Reference" "IC16" (at 1086.1802 150.495 0)
+    (property "Reference" "U16" (at 1086.1802 150.495 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS86" (at 1086.1802 153.035 0)
@@ -14866,7 +14866,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC16") (unit 1)
+          (reference "U16") (unit 1)
         )
       )
     )
@@ -14900,7 +14900,7 @@
   (symbol (lib_id "74xx:74LS02") (at 589.28 620.395 270) (unit 1) (convert 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 14150b11-da6d-4b53-80b9-58029d896c99)
-    (property "Reference" "IC63" (at 596.265 620.395 0)
+    (property "Reference" "U63" (at 596.265 620.395 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS02" (at 593.725 620.395 0)
@@ -14929,7 +14929,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC63") (unit 1)
+          (reference "U63") (unit 1)
         )
       )
     )
@@ -14938,7 +14938,7 @@
   (symbol (lib_id "74xx:74LS393") (at 1217.93 305.435 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1576a2bc-936d-4c3e-8d44-7675acaebd49)
-    (property "Reference" "IC39" (at 1217.93 295.91 0)
+    (property "Reference" "U39" (at 1217.93 295.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS393" (at 1217.93 298.45 0)
@@ -14967,7 +14967,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC39") (unit 2)
+          (reference "U39") (unit 2)
         )
       )
     )
@@ -14976,7 +14976,7 @@
   (symbol (lib_id "74xx:74LS00") (at 1045.845 114.3 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 15b656ea-6684-41df-9a7c-498d8d52a6ba)
-    (property "Reference" "IC8" (at 1045.8367 106.045 0)
+    (property "Reference" "U8" (at 1045.8367 106.045 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 1045.8367 108.585 0)
@@ -15005,7 +15005,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC8") (unit 3)
+          (reference "U8") (unit 3)
         )
       )
     )
@@ -15039,7 +15039,7 @@
   (symbol (lib_id "74xx:74LS08") (at 618.49 648.97 270) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 15f55e84-1166-4b83-86db-0493aab2466d)
-    (property "Reference" "IC34" (at 613.41 647.7083 90)
+    (property "Reference" "U34" (at 613.41 647.7083 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS08" (at 613.41 650.2483 90)
@@ -15068,7 +15068,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC34") (unit 4)
+          (reference "U34") (unit 4)
         )
       )
     )
@@ -15137,7 +15137,7 @@
   (symbol (lib_id "74xx:74LS00") (at 766.445 470.535 270) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 16ba272d-7b64-413a-b180-0b7e76810f13)
-    (property "Reference" "IC48" (at 774.065 470.5267 0)
+    (property "Reference" "U48" (at 774.065 470.5267 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 771.525 470.5267 0)
@@ -15166,7 +15166,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC48") (unit 2)
+          (reference "U48") (unit 2)
         )
       )
     )
@@ -15276,7 +15276,7 @@
   (symbol (lib_id "74xx:74LS74") (at 323.215 202.565 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 17b1367a-5b90-483b-b8ef-46c5d2d694b0)
-    (property "Reference" "IC37" (at 325.4091 192.405 0)
+    (property "Reference" "U37" (at 325.4091 192.405 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS74" (at 325.4091 194.945 0)
@@ -15305,7 +15305,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC37") (unit 2)
+          (reference "U37") (unit 2)
         )
       )
     )
@@ -15365,7 +15365,7 @@
   (symbol (lib_id "74xx:74LS32") (at 777.875 515.62 90) (mirror x) (unit 3) (convert 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 189638f2-830a-4882-a62e-c8e20a888763)
-    (property "Reference" "IC62" (at 772.795 514.3417 90)
+    (property "Reference" "U62" (at 772.795 514.3417 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS32" (at 772.795 516.8817 90)
@@ -15394,7 +15394,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC62") (unit 3)
+          (reference "U62") (unit 3)
         )
       )
     )
@@ -15479,7 +15479,7 @@
   (symbol (lib_id "74xx:74LS393") (at 601.98 630.555 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1a3d1649-f150-46f2-857b-2c360621b6c0)
-    (property "Reference" "IC52" (at 601.98 621.03 0)
+    (property "Reference" "U52" (at 601.98 621.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS393" (at 601.98 623.57 0)
@@ -15508,7 +15508,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC52") (unit 1)
+          (reference "U52") (unit 1)
         )
       )
     )
@@ -15542,7 +15542,7 @@
   (symbol (lib_id "Device:R_Potentiometer_US") (at 22.86 23.495 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1c3cefbb-c8b3-4062-b5e8-37e02f55d511)
-    (property "Reference" "VR1" (at 25.4 22.225 0)
+    (property "Reference" "RV1" (at 25.4 22.225 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 25.4 24.765 0)
@@ -15554,13 +15554,25 @@
     (property "Datasheet" "~" (at 22.86 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Sim.Device" "R" (at 22.86 23.495 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Type" "POT" (at 22.86 23.495 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=r0 2=wiper 3=r1" (at 22.86 23.495 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Params" "r=\"\"" (at 22.86 23.495 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 6349566c-3f34-4116-a575-a85a8585c446))
     (pin "2" (uuid 55489393-45e5-48f7-9890-30c279041bd3))
     (pin "3" (uuid 1960f676-400a-43a5-8491-7592f6f8c247))
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "VR1") (unit 1)
+          (reference "RV1") (unit 1)
         )
       )
     )
@@ -15569,7 +15581,7 @@
   (symbol (lib_id "74xx:74LS00") (at 816.61 168.275 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1c972a0d-101d-4766-82d0-e3e4de4fba0e)
-    (property "Reference" "IC8" (at 816.6017 175.26 0)
+    (property "Reference" "U8" (at 816.6017 175.26 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 816.6017 172.72 0)
@@ -15598,7 +15610,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC8") (unit 1)
+          (reference "U8") (unit 1)
         )
       )
     )
@@ -15657,7 +15669,7 @@
   (symbol (lib_id "74xx:74LS393") (at 889.635 315.595 90) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1ddf78c8-3ac9-448b-89f3-9546a4a5a186)
-    (property "Reference" "IC40" (at 899.16 314.325 90)
+    (property "Reference" "U40" (at 899.16 314.325 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS393" (at 899.16 316.865 90)
@@ -15686,7 +15698,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC40") (unit 2)
+          (reference "U40") (unit 2)
         )
       )
     )
@@ -15695,7 +15707,7 @@
   (symbol (lib_id "74xx:74LS20") (at 643.89 597.535 90) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1ea2cfee-c44e-4b09-854d-329456110ddd)
-    (property "Reference" "IC57" (at 650.24 596.2746 90)
+    (property "Reference" "U57" (at 650.24 596.2746 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS20" (at 650.24 598.8146 90)
@@ -15722,7 +15734,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC57") (unit 2)
+          (reference "U57") (unit 2)
         )
       )
     )
@@ -15731,7 +15743,7 @@
   (symbol (lib_id "74xx:74LS07") (at 1084.58 96.52 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1eda9a7c-7482-4bb2-88e4-b587bfd4d506)
-    (property "Reference" "IC13" (at 1084.58 88.265 0)
+    (property "Reference" "U13" (at 1084.58 88.265 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07" (at 1084.58 90.805 0)
@@ -15760,7 +15772,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC13") (unit 3)
+          (reference "U13") (unit 3)
         )
       )
     )
@@ -15920,7 +15932,7 @@
   (symbol (lib_id "74xx:74LS00") (at 793.115 372.11 0) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 20f9ccdd-a78e-4758-b1c5-2defe9d65653)
-    (property "Reference" "IC30" (at 793.1067 381 0)
+    (property "Reference" "U30" (at 793.1067 381 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 793.1067 378.46 0)
@@ -15949,7 +15961,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC30") (unit 3)
+          (reference "U30") (unit 3)
         )
       )
     )
@@ -15958,7 +15970,7 @@
   (symbol (lib_id "74xx:74LS07") (at 422.91 215.9 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 215d4409-957a-42ea-a926-d6acae8e72fa)
-    (property "Reference" "IC31" (at 422.91 207.645 0)
+    (property "Reference" "U31" (at 422.91 207.645 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07P" (at 422.91 210.185 0)
@@ -15999,7 +16011,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC31") (unit 4)
+          (reference "U31") (unit 4)
         )
       )
     )
@@ -16033,7 +16045,7 @@
   (symbol (lib_id "74xx:74LS00") (at 1057.91 241.935 180) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 226513d2-ddc6-4c9a-919a-e71771a4f253)
-    (property "Reference" "IC68" (at 1057.9183 250.19 0)
+    (property "Reference" "U68" (at 1057.9183 250.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 1057.9183 247.65 0)
@@ -16062,7 +16074,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC68") (unit 2)
+          (reference "U68") (unit 2)
         )
       )
     )
@@ -16071,7 +16083,7 @@
   (symbol (lib_id "74xx:74LS08") (at 788.035 551.815 0) (unit 1) (convert 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 227e578a-d520-4aa1-8b32-3f03ab9caf87)
-    (property "Reference" "IC66" (at 788.0267 543.56 0)
+    (property "Reference" "U66" (at 788.0267 543.56 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 788.0267 546.1 0)
@@ -16100,7 +16112,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC66") (unit 1)
+          (reference "U66") (unit 1)
         )
       )
     )
@@ -16134,7 +16146,7 @@
   (symbol (lib_id "74xx:74LS02") (at -41.91 -52.705 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 233ed014-cee9-4a93-b1b7-323d02968607)
-    (property "Reference" "IC72" (at -41.91 -59.69 0)
+    (property "Reference" "U72" (at -41.91 -59.69 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS02" (at -41.91 -57.15 0)
@@ -16163,7 +16175,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC72") (unit 1)
+          (reference "U72") (unit 1)
         )
       )
     )
@@ -16197,7 +16209,7 @@
   (symbol (lib_id "74xx:74LS00") (at 1207.77 170.18 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 248e08f5-6bdc-4f02-957e-a99382db2d6a)
-    (property "Reference" "IC68" (at 1207.7783 161.29 0)
+    (property "Reference" "U68" (at 1207.7783 161.29 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 1207.7783 163.83 0)
@@ -16226,7 +16238,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC68") (unit 1)
+          (reference "U68") (unit 1)
         )
       )
     )
@@ -16235,7 +16247,7 @@
   (symbol (lib_id "74xx:74LS02") (at 323.215 158.75 90) (mirror x) (unit 4) (convert 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 25b4c70c-67f8-4766-b387-b7ccd4531d86)
-    (property "Reference" "IC61" (at 318.135 157.48 90)
+    (property "Reference" "U61" (at 318.135 157.48 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS02" (at 318.135 160.02 90)
@@ -16276,7 +16288,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC61") (unit 4)
+          (reference "U61") (unit 4)
         )
       )
     )
@@ -16285,7 +16297,7 @@
   (symbol (lib_id "74xx:74LS08") (at 730.25 -49.53 90) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 25c62419-1da9-4d84-b9c0-946f5429219b)
-    (property "Reference" "IC34" (at 730.25 -57.785 90)
+    (property "Reference" "U34" (at 730.25 -57.785 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 730.25 -55.245 90)
@@ -16314,7 +16326,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC34") (unit 5)
+          (reference "U34") (unit 5)
         )
       )
     )
@@ -16323,7 +16335,7 @@
   (symbol (lib_id "74xx:74LS85") (at 838.835 290.195 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2691d565-6aae-495b-9f2b-797e793ca073)
-    (property "Reference" "IC42" (at 856.615 297.1231 90)
+    (property "Reference" "U42" (at 856.615 297.1231 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS85" (at 856.615 294.5831 90)
@@ -16354,7 +16366,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC42") (unit 1)
+          (reference "U42") (unit 1)
         )
       )
     )
@@ -16363,7 +16375,7 @@
   (symbol (lib_id "74xx:74LS153") (at 1133.475 315.595 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 27fae73c-6acd-4da7-8c84-d08df68ba54a)
-    (property "Reference" "IC69" (at 1135.6691 290.83 0)
+    (property "Reference" "U69" (at 1135.6691 290.83 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS153" (at 1135.6691 293.37 0)
@@ -16394,7 +16406,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC69") (unit 1)
+          (reference "U69") (unit 1)
         )
       )
     )
@@ -16555,7 +16567,7 @@
   (symbol (lib_id "74xx:74LS74") (at 215.9 281.305 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2a11efaf-4b44-4b29-bfdd-6d9da82a2888)
-    (property "Reference" "IC33" (at 218.0941 271.78 0)
+    (property "Reference" "U33" (at 218.0941 271.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS74" (at 218.0941 274.32 0)
@@ -16596,7 +16608,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC33") (unit 2)
+          (reference "U33") (unit 2)
         )
       )
     )
@@ -16608,7 +16620,7 @@
     (property "Reference" "C5" (at 26.67 44.45 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "77u" (at 26.67 46.99 0)
+    (property "Value" "47u" (at 26.67 46.99 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm" (at 22.86 46.355 0)
@@ -16656,7 +16668,7 @@
   (symbol (lib_id "74xx:74LS10") (at 859.155 -82.55 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2a953a83-123c-4820-bda6-d2d848cb9ddb)
-    (property "Reference" "IC28" (at 864.87 -83.8283 90)
+    (property "Reference" "U28" (at 864.87 -83.8283 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS10" (at 864.87 -81.2883 90)
@@ -16685,7 +16697,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC28") (unit 1)
+          (reference "U28") (unit 1)
         )
       )
     )
@@ -16694,7 +16706,7 @@
   (symbol (lib_id "Memory_PROM:MB7137") (at 707.39 502.92 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2ae458dd-5a39-4e7f-912e-24d8e3ede122)
-    (property "Reference" "IC59" (at 727.71 495.9919 90)
+    (property "Reference" "U59" (at 727.71 495.9919 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MB7137" (at 727.71 498.5319 90)
@@ -16733,7 +16745,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC59") (unit 1)
+          (reference "U59") (unit 1)
         )
       )
     )
@@ -16792,7 +16804,7 @@
   (symbol (lib_id "74xx:74LS27") (at 742.315 216.535 0) (unit 2) (convert 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2e1f3788-9b00-433f-986c-0d213ff4d55a)
-    (property "Reference" "IC74" (at 742.315 208.28 0)
+    (property "Reference" "U74" (at 742.315 208.28 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS27" (at 742.315 210.82 0)
@@ -16821,7 +16833,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC74") (unit 2)
+          (reference "U74") (unit 2)
         )
       )
     )
@@ -16830,7 +16842,7 @@
   (symbol (lib_id "74xx:74LS86") (at 1031.875 -47.625 90) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2f23762e-dc6a-4939-b947-8fd56fc201ea)
-    (property "Reference" "IC16" (at 1031.875 -55.88 90)
+    (property "Reference" "U16" (at 1031.875 -55.88 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS86" (at 1031.875 -53.34 90)
@@ -16859,7 +16871,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC16") (unit 5)
+          (reference "U16") (unit 5)
         )
       )
     )
@@ -16970,7 +16982,7 @@
   (symbol (lib_id "74xx:74LS151") (at 864.87 628.65 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2fbaf7ff-85c2-44f9-8b0e-a5f3c035f133)
-    (property "Reference" "IC70" (at 887.73 621.7219 90)
+    (property "Reference" "U70" (at 887.73 621.7219 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS151" (at 887.73 624.2619 90)
@@ -17001,7 +17013,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC70") (unit 1)
+          (reference "U70") (unit 1)
         )
       )
     )
@@ -17010,7 +17022,7 @@
   (symbol (lib_id "74xx:74LS08") (at -26.035 153.67 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2fd78bfb-db60-4e42-924e-dd2a939356f3)
-    (property "Reference" "IC22" (at -17.78 152.4 0)
+    (property "Reference" "U22" (at -17.78 152.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS08" (at -17.78 154.94 0)
@@ -17051,7 +17063,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC22") (unit 5)
+          (reference "U22") (unit 5)
         )
       )
     )
@@ -17085,7 +17097,7 @@
   (symbol (lib_id "74xx:74LS11") (at 647.7 -48.26 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 30293267-883f-4355-bb33-3657938032e9)
-    (property "Reference" "IC85" (at 647.6917 -56.515 0)
+    (property "Reference" "U85" (at 647.6917 -56.515 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS11" (at 647.6917 -53.975 0)
@@ -17126,7 +17138,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC85") (unit 2)
+          (reference "U85") (unit 2)
         )
       )
     )
@@ -17135,7 +17147,7 @@
   (symbol (lib_id "74xx:74LS07") (at 421.64 245.11 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3057266f-5bab-4cd3-9385-772125b36f82)
-    (property "Reference" "IC31" (at 421.64 236.855 0)
+    (property "Reference" "U31" (at 421.64 236.855 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07P" (at 421.64 239.395 0)
@@ -17176,7 +17188,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC31") (unit 5)
+          (reference "U31") (unit 5)
         )
       )
     )
@@ -17237,7 +17249,7 @@
   (symbol (lib_id "74xx:74LS10") (at 651.51 972.82 90) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 30cb5a04-b317-4582-8692-ccff4b601c4e)
-    (property "Reference" "IC45" (at 656.59 971.5417 90)
+    (property "Reference" "U45" (at 656.59 971.5417 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS10" (at 656.59 974.0817 90)
@@ -17266,7 +17278,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC45") (unit 2)
+          (reference "U45") (unit 2)
         )
       )
     )
@@ -17403,7 +17415,7 @@
   (symbol (lib_id "74xx:74LS07") (at 1084.58 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 339b45ed-e18c-456a-be96-d31001e981e3)
-    (property "Reference" "IC13" (at 1084.58 70.485 0)
+    (property "Reference" "U13" (at 1084.58 70.485 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07" (at 1084.58 73.025 0)
@@ -17432,7 +17444,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC13") (unit 1)
+          (reference "U13") (unit 1)
         )
       )
     )
@@ -17544,7 +17556,7 @@
   (symbol (lib_id "74xx:74LS11") (at -16.51 300.355 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 36616bd3-c3a1-437b-85d7-77bb1585baf7)
-    (property "Reference" "IC125" (at -8.89 299.085 0)
+    (property "Reference" "U125" (at -8.89 299.085 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS11" (at -8.89 301.625 0)
@@ -17573,7 +17585,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC125") (unit 4)
+          (reference "U125") (unit 4)
         )
       )
     )
@@ -17607,7 +17619,7 @@
   (symbol (lib_id "74xx:74LS11") (at -53.34 302.895 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 37746a74-1cff-4af9-acd7-df8f3d9c3799)
-    (property "Reference" "IC125" (at -53.3483 294.64 0)
+    (property "Reference" "U125" (at -53.3483 294.64 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS11" (at -53.3483 297.18 0)
@@ -17636,7 +17648,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC125") (unit 1)
+          (reference "U125") (unit 1)
         )
       )
     )
@@ -17645,7 +17657,7 @@
   (symbol (lib_id "74xx:74LS11") (at 648.97 -10.16 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 377afb01-15da-4839-8263-1248b4642f04)
-    (property "Reference" "IC85" (at 655.955 -11.43 0)
+    (property "Reference" "U85" (at 655.955 -11.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS11" (at 655.955 -8.89 0)
@@ -17686,7 +17698,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC85") (unit 4)
+          (reference "U85") (unit 4)
         )
       )
     )
@@ -17720,7 +17732,7 @@
   (symbol (lib_id "74xx:74LS393") (at 553.72 -19.685 90) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 38b55906-1ba6-4ddc-8364-35a3f9c1773f)
-    (property "Reference" "IC79" (at 553.72 -27.94 90)
+    (property "Reference" "U79" (at 553.72 -27.94 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS393" (at 553.72 -25.4 90)
@@ -17749,7 +17761,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC79") (unit 3)
+          (reference "U79") (unit 3)
         )
       )
     )
@@ -17783,7 +17795,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 654.685 497.84 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3a216aef-957a-4db4-bdd5-16368e042353)
-    (property "Reference" "IC51" (at 660.4 493.395 90)
+    (property "Reference" "U51" (at 660.4 493.395 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS279" (at 660.4 495.935 90)
@@ -17814,7 +17826,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC51") (unit 1)
+          (reference "U51") (unit 1)
         )
       )
     )
@@ -17823,16 +17835,25 @@
   (symbol (lib_id "Device:R_Network08_US") (at 62.23 194.945 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3a575aec-32c6-4d6f-948d-4e42a6d572a6)
-    (property "Reference" "RA1" (at 62.484 208.28 90)
+    (property "Reference" "RA1" (at 62.484 179.07 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R_Network08_US" (at 62.484 205.74 90)
+    (property "Value" "560" (at 62.484 181.61 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_THT:R_Array_SIP9" (at 62.23 207.01 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.vishay.com/docs/31509/csc.pdf" (at 62.23 194.945 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Device" "R" (at 62.23 194.945 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=+ 2=-" (at 62.23 194.945 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Params" "r=\"\"" (at 62.23 194.945 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8362f553-97a9-40c7-b2f2-b63344fbabfb))
@@ -17856,7 +17877,7 @@
   (symbol (lib_id "74xx:74LS00") (at 107.315 144.145 180) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3b09d514-751b-44c9-a2fd-9635e90debfe)
-    (property "Reference" "IC12" (at 107.3233 135.89 0)
+    (property "Reference" "U12" (at 107.3233 135.89 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 107.3233 138.43 0)
@@ -17897,7 +17918,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC12") (unit 3)
+          (reference "U12") (unit 3)
         )
       )
     )
@@ -17906,7 +17927,7 @@
   (symbol (lib_id "74xx:74LS20") (at 691.515 -19.05 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3b17d234-a0c0-4f0a-b5ef-8c156bd25eef)
-    (property "Reference" "IC14" (at 697.865 -20.32 0)
+    (property "Reference" "U14" (at 697.865 -20.32 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS20" (at 697.865 -17.78 0)
@@ -17933,7 +17954,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC14") (unit 3)
+          (reference "U14") (unit 3)
         )
       )
     )
@@ -17967,7 +17988,7 @@
   (symbol (lib_id "74xx:74LS193") (at 897.255 171.45 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3c1ff8e9-fac4-4ea7-98a7-698bb1e6afb5)
-    (property "Reference" "IC24" (at 879.475 161.29 90)
+    (property "Reference" "U24" (at 879.475 161.29 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS193" (at 879.475 163.83 90)
@@ -17998,7 +18019,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC24") (unit 1)
+          (reference "U24") (unit 1)
         )
       )
     )
@@ -18007,7 +18028,7 @@
   (symbol (lib_id "74xx:74LS10") (at 662.94 478.79 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3c8ed9cc-56f3-48d0-bd13-6d57a855800a)
-    (property "Reference" "IC45" (at 668.02 477.5117 90)
+    (property "Reference" "U45" (at 668.02 477.5117 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS10" (at 668.02 480.0517 90)
@@ -18036,7 +18057,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC45") (unit 1)
+          (reference "U45") (unit 1)
         )
       )
     )
@@ -18171,7 +18192,7 @@
   (symbol (lib_id "74xx:74LS393") (at 622.935 438.785 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 42066a7d-ff21-46d9-9987-00e3bdf98e25)
-    (property "Reference" "IC54" (at 622.935 428.625 0)
+    (property "Reference" "U54" (at 622.935 428.625 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS393" (at 622.935 431.165 0)
@@ -18200,7 +18221,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC54") (unit 2)
+          (reference "U54") (unit 2)
         )
       )
     )
@@ -18284,7 +18305,7 @@
   (symbol (lib_id "74xx:74LS86") (at 795.02 115.57 270) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 451cda7a-b004-46dc-81ed-327a0c14fa75)
-    (property "Reference" "IC16" (at 800.1 113.9952 90)
+    (property "Reference" "U16" (at 800.1 113.9952 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS86" (at 800.1 116.5352 90)
@@ -18313,7 +18334,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC16") (unit 3)
+          (reference "U16") (unit 3)
         )
       )
     )
@@ -18322,7 +18343,7 @@
   (symbol (lib_id "74xx:74LS04") (at 697.23 54.61 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 45304bcd-a61a-4473-a257-037105ffac2b)
-    (property "Reference" "IC6" (at 697.23 45.72 0)
+    (property "Reference" "U6" (at 697.23 45.72 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 697.23 48.26 0)
@@ -18351,7 +18372,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC6") (unit 5)
+          (reference "U6") (unit 5)
         )
       )
     )
@@ -18469,7 +18490,7 @@
   (symbol (lib_id "74xx:74LS20") (at 703.58 883.92 90) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 48154246-ad3c-4461-96a0-1bc021072685)
-    (property "Reference" "IC57" (at 703.58 873.76 90)
+    (property "Reference" "U57" (at 703.58 873.76 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS20" (at 703.58 876.3 90)
@@ -18496,7 +18517,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC57") (unit 3)
+          (reference "U57") (unit 3)
         )
       )
     )
@@ -18530,7 +18551,7 @@
   (symbol (lib_id "74xx:74LS151") (at 1003.935 118.11 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 49727110-530b-4aa8-a921-afac424848bc)
-    (property "Reference" "IC4" (at 1029.97 111.1819 90)
+    (property "Reference" "U4" (at 1029.97 111.1819 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS151" (at 1029.97 113.7219 90)
@@ -18561,7 +18582,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC4") (unit 1)
+          (reference "U4") (unit 1)
         )
       )
     )
@@ -18646,7 +18667,7 @@
   (symbol (lib_id "74xx:74LS02") (at -73.66 -36.83 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4c1d33eb-ee45-482e-8e66-40d4497f6b50)
-    (property "Reference" "IC72" (at -66.04 -38.1 0)
+    (property "Reference" "U72" (at -66.04 -38.1 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS02" (at -66.04 -35.56 0)
@@ -18675,7 +18696,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC72") (unit 5)
+          (reference "U72") (unit 5)
         )
       )
     )
@@ -18761,7 +18782,7 @@
   (symbol (lib_id "74xx:74LS74") (at 1011.555 266.065 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4dade533-4579-4ff8-9c99-6c4c03d6b070)
-    (property "Reference" "IC33" (at 1013.7491 256.54 0)
+    (property "Reference" "U33" (at 1013.7491 256.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS74" (at 1013.7491 259.08 0)
@@ -18802,7 +18823,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC33") (unit 1)
+          (reference "U33") (unit 1)
         )
       )
     )
@@ -18811,7 +18832,7 @@
   (symbol (lib_id "74xx:74LS123") (at 616.585 563.88 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4dde1ca1-e017-474c-ab93-f73f8ebe359e)
-    (property "Reference" "IC119" (at 616.585 551.18 0)
+    (property "Reference" "U119" (at 616.585 551.18 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS123" (at 616.585 553.72 0)
@@ -18842,7 +18863,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC119") (unit 2)
+          (reference "U119") (unit 2)
         )
       )
     )
@@ -18851,7 +18872,7 @@
   (symbol (lib_id "74xx:74LS393") (at 379.095 166.37 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4e14aac7-7ca4-40db-9105-59625f6c9fca)
-    (property "Reference" "IC79" (at 388.62 165.1 90)
+    (property "Reference" "U79" (at 388.62 165.1 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS393" (at 388.62 167.64 90)
@@ -18880,7 +18901,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC79") (unit 1)
+          (reference "U79") (unit 1)
         )
       )
     )
@@ -18914,7 +18935,7 @@
   (symbol (lib_id "74xx:74LS04") (at 908.05 49.53 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4e45bba7-cec4-48df-abb3-e6896c9f645e)
-    (property "Reference" "IC73" (at 908.05 40.64 0)
+    (property "Reference" "U73" (at 908.05 40.64 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 908.05 43.18 0)
@@ -18955,7 +18976,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC73") (unit 4)
+          (reference "U73") (unit 4)
         )
       )
     )
@@ -19065,7 +19086,7 @@
   (symbol (lib_id "74xx:74LS20") (at 812.8 100.33 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f917271-6e71-40e0-a0e6-13bfbf7b683c)
-    (property "Reference" "IC14" (at 812.8097 90.805 0)
+    (property "Reference" "U14" (at 812.8097 90.805 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS20" (at 812.8097 93.345 0)
@@ -19092,7 +19113,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC14") (unit 1)
+          (reference "U14") (unit 1)
         )
       )
     )
@@ -19101,7 +19122,7 @@
   (symbol (lib_id "74xx:74LS393") (at 995.68 -10.16 90) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4fadf6b2-d8df-4615-8bd2-bbbdd63c6652)
-    (property "Reference" "IC5" (at 995.68 -19.05 90)
+    (property "Reference" "U5" (at 995.68 -19.05 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS393" (at 995.68 -16.51 90)
@@ -19130,7 +19151,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC5") (unit 3)
+          (reference "U5") (unit 3)
         )
       )
     )
@@ -19164,7 +19185,7 @@
   (symbol (lib_id "74xx:74LS32") (at 982.98 253.365 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 50765560-65af-4236-af96-343521ad633d)
-    (property "Reference" "IC23" (at 982.98 260.985 0)
+    (property "Reference" "U23" (at 982.98 260.985 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 982.98 258.445 0)
@@ -19193,7 +19214,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC23") (unit 1)
+          (reference "U23") (unit 1)
         )
       )
     )
@@ -19252,7 +19273,7 @@
   (symbol (lib_id "74xx:74LS04") (at 407.035 155.575 0) (unit 6)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 50ad398a-2178-4cc3-93f0-16ef3d313978)
-    (property "Reference" "IC73" (at 406.4 161.925 0)
+    (property "Reference" "U73" (at 406.4 161.925 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 406.4 164.465 0)
@@ -19293,7 +19314,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC73") (unit 6)
+          (reference "U73") (unit 6)
         )
       )
     )
@@ -19327,7 +19348,7 @@
   (symbol (lib_id "74xx:74LS04") (at -94.615 216.535 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 529a4721-706e-427d-a3a4-c1124af42bc0)
-    (property "Reference" "IC44" (at -94.615 208.28 0)
+    (property "Reference" "U44" (at -94.615 208.28 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at -94.615 210.82 0)
@@ -19368,7 +19389,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC44") (unit 5)
+          (reference "U44") (unit 5)
         )
       )
     )
@@ -19453,7 +19474,7 @@
   (symbol (lib_id "Memory_PROM:MB7137") (at 838.2 532.765 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 54606896-e8b3-49c8-984c-acb97abb96fc)
-    (property "Reference" "IC65" (at 836.0059 512.445 0)
+    (property "Reference" "U65" (at 836.0059 512.445 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MB7137" (at 836.0059 514.985 0)
@@ -19492,7 +19513,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC65") (unit 1)
+          (reference "U65") (unit 1)
         )
       )
     )
@@ -19551,7 +19572,7 @@
   (symbol (lib_id "74xx:74LS04") (at 384.175 220.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 551b9091-3d7f-4e48-a9eb-b2cd35378a05)
-    (property "Reference" "IC73" (at 389.255 219.71 90)
+    (property "Reference" "U73" (at 389.255 219.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS04" (at 389.255 222.25 90)
@@ -19592,7 +19613,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC73") (unit 1)
+          (reference "U73") (unit 1)
         )
       )
     )
@@ -19628,7 +19649,7 @@
   (symbol (lib_id "74xx:74LS02") (at 689.61 334.01 0) (unit 2) (convert 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 553bbe98-6d5d-40cf-88db-82ea4f933600)
-    (property "Reference" "IC72" (at 689.61 326.39 0)
+    (property "Reference" "U72" (at 689.61 326.39 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS02" (at 689.61 328.93 0)
@@ -19657,7 +19678,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC72") (unit 2)
+          (reference "U72") (unit 2)
         )
       )
     )
@@ -19666,7 +19687,7 @@
   (symbol (lib_id "74xx:74LS04") (at 643.89 577.215 90) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 556b85cc-3885-4e33-bf2e-7fe659f608de)
-    (property "Reference" "IC46" (at 648.97 575.945 90)
+    (property "Reference" "U46" (at 648.97 575.945 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS04" (at 648.97 578.485 90)
@@ -19695,7 +19716,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC46") (unit 4)
+          (reference "U46") (unit 4)
         )
       )
     )
@@ -19729,7 +19750,7 @@
   (symbol (lib_id "74xx:74LS11") (at 164.465 213.36 0) (unit 2) (convert 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 560ab7e3-c2e3-49e1-a84f-a39952843914)
-    (property "Reference" "IC125" (at 164.465 204.47 0)
+    (property "Reference" "U125" (at 164.465 204.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS11" (at 164.465 207.01 0)
@@ -19758,7 +19779,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC125") (unit 2)
+          (reference "U125") (unit 2)
         )
       )
     )
@@ -19792,7 +19813,7 @@
   (symbol (lib_id "74xx:74LS85") (at 742.315 542.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 586d01a4-5c6a-423b-92f4-ff3e8bf68fa8)
-    (property "Reference" "IC58" (at 735.3869 559.435 90)
+    (property "Reference" "U58" (at 735.3869 559.435 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS85" (at 737.9269 559.435 90)
@@ -19823,7 +19844,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC58") (unit 1)
+          (reference "U58") (unit 1)
         )
       )
     )
@@ -19832,7 +19853,7 @@
   (symbol (lib_id "74xx:74LS32") (at 433.07 148.59 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 593503df-5425-4e2c-92f8-e80462a7a763)
-    (property "Reference" "IC55" (at 433.07 156.21 0)
+    (property "Reference" "U55" (at 433.07 156.21 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 433.07 153.67 0)
@@ -19873,7 +19894,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC55") (unit 1)
+          (reference "U55") (unit 1)
         )
       )
     )
@@ -19882,7 +19903,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 129.54 189.865 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5a49a003-0fcf-4aa3-8f2e-03d8409efde9)
-    (property "Reference" "IC32" (at 129.54 179.705 0)
+    (property "Reference" "U32" (at 129.54 179.705 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS279" (at 129.54 182.245 0)
@@ -19925,7 +19946,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC32") (unit 1)
+          (reference "U32") (unit 1)
         )
       )
     )
@@ -20011,7 +20032,7 @@
   (symbol (lib_id "74xx:74LS10") (at 667.385 923.29 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5db206e2-adb2-4d5c-ac73-0ca65ad3340a)
-    (property "Reference" "IC80" (at 667.3767 914.4 0)
+    (property "Reference" "U80" (at 667.3767 914.4 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS10" (at 667.3767 916.94 0)
@@ -20040,7 +20061,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC80") (unit 3)
+          (reference "U80") (unit 3)
         )
       )
     )
@@ -20075,7 +20096,7 @@
   (symbol (lib_id "74xx:74LS00") (at -19.685 186.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5e63d17c-79c3-4ab2-8450-2144cb75dc1c)
-    (property "Reference" "IC12" (at -19.6933 177.8 0)
+    (property "Reference" "U12" (at -19.6933 177.8 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at -19.6933 180.34 0)
@@ -20116,7 +20137,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC12") (unit 1)
+          (reference "U12") (unit 1)
         )
       )
     )
@@ -20226,7 +20247,7 @@
   (symbol (lib_id "74xx:74LS85") (at 884.555 248.285 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 602dca4e-f117-4ddf-8f15-d5dfb2f93bf3)
-    (property "Reference" "IC17" (at 901.7 241.3569 90)
+    (property "Reference" "U17" (at 901.7 241.3569 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS85" (at 901.7 243.8969 90)
@@ -20257,7 +20278,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC17") (unit 1)
+          (reference "U17") (unit 1)
         )
       )
     )
@@ -20317,7 +20338,7 @@
   (symbol (lib_id "74xx:74LS10") (at 839.47 615.95 0) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 62af424a-ea82-4e27-a6ce-adf7d37cf9ea)
-    (property "Reference" "IC45" (at 839.4617 607.695 0)
+    (property "Reference" "U45" (at 839.4617 607.695 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS10" (at 839.4617 610.235 0)
@@ -20346,7 +20367,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC45") (unit 3)
+          (reference "U45") (unit 3)
         )
       )
     )
@@ -20355,7 +20376,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 130.175 165.1 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 635c5095-0e25-4a1b-8a64-cea37bb812c3)
-    (property "Reference" "IC32" (at 130.175 154.94 0)
+    (property "Reference" "U32" (at 130.175 154.94 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS279" (at 130.175 157.48 0)
@@ -20398,7 +20419,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC32") (unit 3)
+          (reference "U32") (unit 3)
         )
       )
     )
@@ -20407,7 +20428,7 @@
   (symbol (lib_id "74xx:74LS11") (at -35.56 302.895 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 63c79bc5-c170-4b1d-a677-b7a075d5922b)
-    (property "Reference" "IC125" (at -35.5683 294.64 0)
+    (property "Reference" "U125" (at -35.5683 294.64 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS11" (at -35.5683 297.18 0)
@@ -20436,7 +20457,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC125") (unit 3)
+          (reference "U125") (unit 3)
         )
       )
     )
@@ -20545,7 +20566,7 @@
   (symbol (lib_id "74xx:74LS123") (at 471.805 -20.955 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 65f6aa88-7f3d-4f88-8d6b-0675a68dbcdd)
-    (property "Reference" "IC38" (at 478.79 -22.225 0)
+    (property "Reference" "U38" (at 478.79 -22.225 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS123" (at 478.79 -19.685 0)
@@ -20588,7 +20609,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC38") (unit 3)
+          (reference "U38") (unit 3)
         )
       )
     )
@@ -20597,7 +20618,7 @@
   (symbol (lib_id "74xx:74LS32") (at 946.785 247.015 0) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6637eeb3-6af7-4ebc-a738-e510449edbbf)
-    (property "Reference" "IC23" (at 946.785 254.635 0)
+    (property "Reference" "U23" (at 946.785 254.635 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 946.785 252.095 0)
@@ -20626,7 +20647,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC23") (unit 3)
+          (reference "U23") (unit 3)
         )
       )
     )
@@ -20660,7 +20681,7 @@
   (symbol (lib_id "74xx:74LS02") (at 407.67 -12.7 90) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 67259a5e-f115-434c-9e12-6281b21ff390)
-    (property "Reference" "IC61" (at 407.67 -21.59 90)
+    (property "Reference" "U61" (at 407.67 -21.59 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS02" (at 407.67 -19.05 90)
@@ -20701,7 +20722,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC61") (unit 5)
+          (reference "U61") (unit 5)
         )
       )
     )
@@ -20736,7 +20757,7 @@
   (symbol (lib_id "74xx:74LS00") (at 760.095 470.535 90) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6765102d-fe69-494c-add4-b77382843450)
-    (property "Reference" "IC48" (at 753.11 470.5267 0)
+    (property "Reference" "U48" (at 753.11 470.5267 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 755.65 470.5267 0)
@@ -20765,7 +20786,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC48") (unit 4)
+          (reference "U48") (unit 4)
         )
       )
     )
@@ -20799,7 +20820,7 @@
   (symbol (lib_id "74xx:74LS08") (at 752.475 905.51 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 69c15a2f-8f18-4cfd-a596-af8f6e361ecd)
-    (property "Reference" "IC66" (at 752.4667 896.62 0)
+    (property "Reference" "U66" (at 752.4667 896.62 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 752.4667 899.16 0)
@@ -20828,7 +20849,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC66") (unit 2)
+          (reference "U66") (unit 2)
         )
       )
     )
@@ -20837,7 +20858,7 @@
   (symbol (lib_id "Memory_PROM:MB7137") (at 893.445 532.765 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6a6ccbfc-4ab2-4ca2-ab84-68e7108de03d)
-    (property "Reference" "IC98" (at 895.6391 512.445 0)
+    (property "Reference" "U98" (at 895.6391 512.445 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MB7137" (at 895.6391 514.985 0)
@@ -20876,7 +20897,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC98") (unit 1)
+          (reference "U98") (unit 1)
         )
       )
     )
@@ -20935,7 +20956,7 @@
   (symbol (lib_id "74xx:74LS123") (at 727.075 -17.145 90) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6b3f8147-ca70-4734-abbc-0b8e5a6d7ef2)
-    (property "Reference" "IC1" (at 727.075 -27.305 90)
+    (property "Reference" "U1" (at 727.075 -27.305 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS123" (at 727.075 -24.765 90)
@@ -20966,7 +20987,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC1") (unit 3)
+          (reference "U1") (unit 3)
         )
       )
     )
@@ -21025,7 +21046,7 @@
   (symbol (lib_id "74xx:74LS08") (at 635.635 -81.28 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6c5dfc18-ff9a-4387-b360-2568fa335102)
-    (property "Reference" "IC2" (at 642.62 -82.55 0)
+    (property "Reference" "U2" (at 642.62 -82.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS08" (at 642.62 -80.01 0)
@@ -21054,7 +21075,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC2") (unit 5)
+          (reference "U2") (unit 5)
         )
       )
     )
@@ -21089,7 +21110,7 @@
   (symbol (lib_id "74xx:74LS151") (at 808.99 535.305 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6c718367-14b8-457d-ab4a-55410021297f)
-    (property "Reference" "IC64" (at 809.3359 513.08 0)
+    (property "Reference" "U64" (at 809.3359 513.08 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS151" (at 809.3359 515.62 0)
@@ -21120,7 +21141,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC64") (unit 1)
+          (reference "U64") (unit 1)
         )
       )
     )
@@ -21129,7 +21150,7 @@
   (symbol (lib_id "74xx:74LS08") (at 734.695 28.575 0) (mirror x) (unit 1) (convert 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6e318443-60c9-4abb-8cda-c9e7602fc0ad)
-    (property "Reference" "IC2" (at 734.6867 37.465 0)
+    (property "Reference" "U2" (at 734.6867 37.465 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 734.6867 34.925 0)
@@ -21158,7 +21179,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC2") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -21244,7 +21265,7 @@
   (symbol (lib_id "74xx:74LS07") (at 1084.58 87.63 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6e667cc5-3d07-49e7-bc26-0ee0ddb989b1)
-    (property "Reference" "IC13" (at 1084.58 79.375 0)
+    (property "Reference" "U13" (at 1084.58 79.375 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07" (at 1084.58 81.915 0)
@@ -21273,7 +21294,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC13") (unit 2)
+          (reference "U13") (unit 2)
         )
       )
     )
@@ -21307,7 +21328,7 @@
   (symbol (lib_id "74xx:74LS10") (at 636.27 367.665 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6f40d1f7-6b50-4164-9454-c246253b1001)
-    (property "Reference" "IC80" (at 636.2617 359.41 0)
+    (property "Reference" "U80" (at 636.2617 359.41 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS10" (at 636.2617 361.95 0)
@@ -21336,7 +21357,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC80") (unit 2)
+          (reference "U80") (unit 2)
         )
       )
     )
@@ -21420,7 +21441,7 @@
   (symbol (lib_id "74xx:74LS32") (at 360.045 -6.985 270) (mirror x) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6fdd0985-4a5e-4193-8cb0-d0410d98b8b0)
-    (property "Reference" "IC55" (at 360.045 -15.24 90)
+    (property "Reference" "U55" (at 360.045 -15.24 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 360.045 -12.7 90)
@@ -21461,7 +21482,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC55") (unit 5)
+          (reference "U55") (unit 5)
         )
       )
     )
@@ -21545,7 +21566,7 @@
   (symbol (lib_id "74xx:74LS04") (at 908.685 338.455 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7207ff3f-cb43-4782-ba1c-12d6a1f1f5ee)
-    (property "Reference" "IC46" (at 908.685 329.565 0)
+    (property "Reference" "U46" (at 908.685 329.565 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 908.685 332.105 0)
@@ -21574,7 +21595,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC46") (unit 1)
+          (reference "U46") (unit 1)
         )
       )
     )
@@ -21634,7 +21655,7 @@
   (symbol (lib_id "74xx:74LS04") (at 760.095 120.015 0) (unit 6)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7307d124-be9e-4417-940b-896fe8f75331)
-    (property "Reference" "IC44" (at 760.095 111.125 0)
+    (property "Reference" "U44" (at 760.095 111.125 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 760.095 113.665 0)
@@ -21675,7 +21696,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC44") (unit 6)
+          (reference "U44") (unit 6)
         )
       )
     )
@@ -21712,7 +21733,7 @@
     (property "Reference" "R5" (at 25.4 29.845 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_US" (at 25.4 32.385 0)
+    (property "Value" "3.3k" (at 25.4 32.385 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 23.876 31.369 90)
@@ -21735,7 +21756,7 @@
   (symbol (lib_id "74xx:74LS74") (at 304.165 -15.875 90) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7517c81f-abc3-429e-ad24-5051759b3248)
-    (property "Reference" "IC50" (at 304.165 -25.4 90)
+    (property "Reference" "U50" (at 304.165 -25.4 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS74" (at 304.165 -22.86 90)
@@ -21776,7 +21797,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC50") (unit 3)
+          (reference "U50") (unit 3)
         )
       )
     )
@@ -21811,7 +21832,7 @@
   (symbol (lib_id "74xx:74LS393") (at 843.915 315.595 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 75ba76b7-8ec3-4567-9e16-b8c31473c550)
-    (property "Reference" "IC40" (at 853.44 314.325 90)
+    (property "Reference" "U40" (at 853.44 314.325 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS393" (at 853.44 316.865 90)
@@ -21840,7 +21861,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC40") (unit 1)
+          (reference "U40") (unit 1)
         )
       )
     )
@@ -21874,7 +21895,7 @@
   (symbol (lib_id "74xx:74LS00") (at 741.68 973.455 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 766cbf37-4d32-4581-a22e-b8e7b3460c09)
-    (property "Reference" "IC56" (at 748.03 972.185 0)
+    (property "Reference" "U56" (at 748.03 972.185 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS00" (at 748.03 974.725 0)
@@ -21903,7 +21924,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC56") (unit 5)
+          (reference "U56") (unit 5)
         )
       )
     )
@@ -21912,7 +21933,7 @@
   (symbol (lib_id "74xx:74LS04") (at 396.24 182.88 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 77049339-0363-4a63-a392-5926053415d0)
-    (property "Reference" "IC73" (at 396.24 173.99 0)
+    (property "Reference" "U73" (at 396.24 173.99 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 396.24 176.53 0)
@@ -21953,7 +21974,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC73") (unit 2)
+          (reference "U73") (unit 2)
         )
       )
     )
@@ -21987,7 +22008,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 635.635 928.37 270) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 77971311-20cc-4365-9bbd-1be62958147d)
-    (property "Reference" "IC51" (at 636.27 918.21 90)
+    (property "Reference" "U51" (at 636.27 918.21 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS279" (at 636.27 920.75 90)
@@ -22018,7 +22039,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC51") (unit 5)
+          (reference "U51") (unit 5)
         )
       )
     )
@@ -22027,7 +22048,7 @@
   (symbol (lib_id "74xx:74LS08") (at 696.595 292.735 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 78619899-3b5a-4903-9ac0-bc4e164a8bd6)
-    (property "Reference" "IC2" (at 696.5867 299.72 0)
+    (property "Reference" "U2" (at 696.5867 299.72 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 696.5867 297.18 0)
@@ -22056,7 +22077,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC2") (unit 2)
+          (reference "U2") (unit 2)
         )
       )
     )
@@ -22117,7 +22138,7 @@
   (symbol (lib_id "74xx:74LS27") (at 323.215 182.245 270) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 79eaf770-f6ad-4162-a36a-36ab0d6c8a4a)
-    (property "Reference" "IC74" (at 328.295 180.975 90)
+    (property "Reference" "U74" (at 328.295 180.975 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS27" (at 328.295 183.515 90)
@@ -22146,7 +22167,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC74") (unit 3)
+          (reference "U74") (unit 3)
         )
       )
     )
@@ -22205,7 +22226,7 @@
   (symbol (lib_id "74xx:74LS02") (at 610.235 409.575 90) (mirror x) (unit 2) (convert 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7af21034-6c18-444c-aed2-ca8d191c38e7)
-    (property "Reference" "IC63" (at 604.52 408.305 90)
+    (property "Reference" "U63" (at 604.52 408.305 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS02" (at 604.52 410.845 90)
@@ -22234,7 +22255,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC63") (unit 2)
+          (reference "U63") (unit 2)
         )
       )
     )
@@ -22243,7 +22264,7 @@
   (symbol (lib_id "74xx:74LS00") (at 746.125 -121.285 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7b54272e-7f22-442a-88e3-82b1ffd41b3c)
-    (property "Reference" "IC48" (at 753.11 -122.555 0)
+    (property "Reference" "U48" (at 753.11 -122.555 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS00" (at 753.11 -120.015 0)
@@ -22272,7 +22293,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC48") (unit 5)
+          (reference "U48") (unit 5)
         )
       )
     )
@@ -22333,7 +22354,7 @@
   (symbol (lib_id "74xx:74LS04") (at 466.725 -62.865 90) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7c1e62ec-b3be-4b98-81de-40995e12edc5)
-    (property "Reference" "IC73" (at 457.835 -62.865 0)
+    (property "Reference" "U73" (at 457.835 -62.865 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 460.375 -62.865 0)
@@ -22374,7 +22395,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC73") (unit 5)
+          (reference "U73") (unit 5)
         )
       )
     )
@@ -22383,7 +22404,7 @@
   (symbol (lib_id "74xx:74LS193") (at 843.28 121.92 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7cbefba6-d71a-4005-93de-84e40ad94591)
-    (property "Reference" "IC15" (at 861.06 119.7041 90)
+    (property "Reference" "U15" (at 861.06 119.7041 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS193" (at 861.06 122.2441 90)
@@ -22414,7 +22435,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC15") (unit 1)
+          (reference "U15") (unit 1)
         )
       )
     )
@@ -22499,7 +22520,7 @@
   (symbol (lib_id "74xx:74LS02") (at 813.435 226.695 0) (unit 4) (convert 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7e907abc-15fa-4815-86c6-2f318557bfc1)
-    (property "Reference" "IC63" (at 813.435 219.71 0)
+    (property "Reference" "U63" (at 813.435 219.71 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS02" (at 813.435 222.25 0)
@@ -22528,7 +22549,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC63") (unit 4)
+          (reference "U63") (unit 4)
         )
       )
     )
@@ -22562,7 +22583,7 @@
   (symbol (lib_id "Memory_PROM:MB7137") (at 893.445 410.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7f1162ba-29d9-439d-a163-982b0cd5adc8)
-    (property "Reference" "IC77" (at 895.6391 390.525 0)
+    (property "Reference" "U77" (at 895.6391 390.525 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MB7137" (at 895.6391 393.065 0)
@@ -22601,7 +22622,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC77") (unit 1)
+          (reference "U77") (unit 1)
         )
       )
     )
@@ -22636,7 +22657,7 @@
   (symbol (lib_id "74xx:74LS08") (at 855.345 50.8 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 805c460e-45a5-4cca-ad49-d17e3f77d7e3)
-    (property "Reference" "IC34" (at 855.3367 42.545 0)
+    (property "Reference" "U34" (at 855.3367 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 855.3367 45.085 0)
@@ -22665,7 +22686,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC34") (unit 2)
+          (reference "U34") (unit 2)
         )
       )
     )
@@ -22801,7 +22822,7 @@
   (symbol (lib_id "74xx:74LS08") (at 750.57 923.29 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8329923e-1885-48d5-8712-2091782ac495)
-    (property "Reference" "IC66" (at 756.92 922.02 0)
+    (property "Reference" "U66" (at 756.92 922.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS08" (at 756.92 924.56 0)
@@ -22830,7 +22851,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC66") (unit 5)
+          (reference "U66") (unit 5)
         )
       )
     )
@@ -22865,7 +22886,7 @@
   (symbol (lib_id "74xx:74LS00") (at 717.55 198.755 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8436e98b-673a-4d4c-bd91-2f158b020a8f)
-    (property "Reference" "IC68" (at 717.5417 190.5 0)
+    (property "Reference" "U68" (at 717.5417 190.5 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 717.5417 193.04 0)
@@ -22894,7 +22915,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC68") (unit 4)
+          (reference "U68") (unit 4)
         )
       )
     )
@@ -22953,7 +22974,7 @@
   (symbol (lib_id "74xx:74LS04") (at 821.69 560.705 90) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 867f5766-8ecd-40c8-bad6-2e589e278b13)
-    (property "Reference" "IC44" (at 826.77 559.435 90)
+    (property "Reference" "U44" (at 826.77 559.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS04" (at 826.77 561.975 90)
@@ -22994,7 +23015,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC44") (unit 2)
+          (reference "U44") (unit 2)
         )
       )
     )
@@ -23053,7 +23074,7 @@
   (symbol (lib_id "74xx:74LS393") (at 768.985 -15.24 90) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 871e81cd-7832-4674-a0b1-e044da68ee71)
-    (property "Reference" "IC19" (at 768.985 -24.13 90)
+    (property "Reference" "U19" (at 768.985 -24.13 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS393" (at 768.985 -21.59 90)
@@ -23082,7 +23103,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC19") (unit 3)
+          (reference "U19") (unit 3)
         )
       )
     )
@@ -23091,7 +23112,7 @@
   (symbol (lib_id "74xx:74LS07") (at 577.85 -98.425 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8784a6ef-98f4-4e1c-b4de-38fba856ff9e)
-    (property "Reference" "IC29" (at 577.85 -106.68 0)
+    (property "Reference" "U29" (at 577.85 -106.68 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07P" (at 577.85 -104.14 0)
@@ -23132,7 +23153,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC29") (unit 3)
+          (reference "U29") (unit 3)
         )
       )
     )
@@ -23141,7 +23162,7 @@
   (symbol (lib_id "74xx:74LS393") (at 1021.715 -14.605 90) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 879f7e7d-9b7c-4340-9602-d002acf56e35)
-    (property "Reference" "IC5" (at 1030.605 -15.875 90)
+    (property "Reference" "U5" (at 1030.605 -15.875 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS393" (at 1030.605 -13.335 90)
@@ -23170,7 +23191,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC5") (unit 2)
+          (reference "U5") (unit 2)
         )
       )
     )
@@ -23204,7 +23225,7 @@
   (symbol (lib_id "74xx:74LS393") (at 622.935 419.735 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 882b5141-53ec-43ff-8a68-bc603d441b27)
-    (property "Reference" "IC54" (at 622.935 409.575 0)
+    (property "Reference" "U54" (at 622.935 409.575 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS393" (at 622.935 412.115 0)
@@ -23233,7 +23254,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC54") (unit 1)
+          (reference "U54") (unit 1)
         )
       )
     )
@@ -23344,7 +23365,7 @@
   (symbol (lib_id "74xx:74LS10") (at 969.645 219.075 270) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8a74258f-35bd-4c26-ae5a-d6583b4e6c4d)
-    (property "Reference" "IC28" (at 974.725 217.7967 90)
+    (property "Reference" "U28" (at 974.725 217.7967 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS10" (at 974.725 220.3367 90)
@@ -23373,7 +23394,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC28") (unit 2)
+          (reference "U28") (unit 2)
         )
       )
     )
@@ -23409,7 +23430,7 @@
   (symbol (lib_id "74xx:74LS04") (at 1026.795 208.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8ada8842-8db3-469c-b83b-5e38e36d25c0)
-    (property "Reference" "IC44" (at 1026.795 199.39 0)
+    (property "Reference" "U44" (at 1026.795 199.39 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 1026.795 201.93 0)
@@ -23450,7 +23471,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC44") (unit 1)
+          (reference "U44") (unit 1)
         )
       )
     )
@@ -23485,7 +23506,7 @@
   (symbol (lib_id "74xx:74LS07") (at 575.945 -76.2 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8bcea4ae-6b6d-4cb6-9a33-bf5a1d5164ef)
-    (property "Reference" "IC29" (at 575.945 -85.09 0)
+    (property "Reference" "U29" (at 575.945 -85.09 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07P" (at 575.945 -82.55 0)
@@ -23526,7 +23547,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC29") (unit 4)
+          (reference "U29") (unit 4)
         )
       )
     )
@@ -23563,13 +23584,22 @@
     (property "Reference" "RA2" (at 45.974 182.245 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_Network07" (at 48.514 182.245 0)
+    (property "Value" "100" (at 48.514 182.245 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Array_SIP8" (at 46.99 180.34 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.vishay.com/docs/31509/csc.pdf" (at 46.99 192.405 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Device" "R" (at 46.99 192.405 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Pins" "1=+ 2=-" (at 46.99 192.405 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Sim.Params" "r=100" (at 46.99 192.405 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid cbb37ba0-691c-474f-8869-c431a1bb8d9a))
@@ -23592,7 +23622,7 @@
   (symbol (lib_id "74xx:74LS10") (at 906.78 -83.185 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8cfb2bf1-2cf9-4929-996f-5eac13163f22)
-    (property "Reference" "IC28" (at 913.13 -84.455 0)
+    (property "Reference" "U28" (at 913.13 -84.455 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS10" (at 913.13 -81.915 0)
@@ -23621,7 +23651,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC28") (unit 4)
+          (reference "U28") (unit 4)
         )
       )
     )
@@ -23630,7 +23660,7 @@
   (symbol (lib_id "74xx:74LS00") (at 662.305 508 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8d8cbd61-5aab-4519-88f6-d1236e3b82e8)
-    (property "Reference" "IC56" (at 662.2967 499.11 0)
+    (property "Reference" "U56" (at 662.2967 499.11 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 662.2967 501.65 0)
@@ -23659,7 +23689,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC56") (unit 2)
+          (reference "U56") (unit 2)
         )
       )
     )
@@ -23694,7 +23724,7 @@
   (symbol (lib_id "74xx:74LS27") (at 260.985 -23.495 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 90baa46d-18eb-4eb1-8450-7a906a2f6736)
-    (property "Reference" "IC74" (at 267.335 -24.765 0)
+    (property "Reference" "U74" (at 267.335 -24.765 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS27" (at 267.335 -22.225 0)
@@ -23723,7 +23753,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC74") (unit 4)
+          (reference "U74") (unit 4)
         )
       )
     )
@@ -23808,7 +23838,7 @@
   (symbol (lib_id "74xx:74LS123") (at 637.54 166.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9189c62c-0e31-462c-8c48-a8a6233eaa05)
-    (property "Reference" "IC43" (at 637.54 153.67 0)
+    (property "Reference" "U43" (at 637.54 153.67 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS123" (at 637.54 156.21 0)
@@ -23839,7 +23869,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC43") (unit 1)
+          (reference "U43") (unit 1)
         )
       )
     )
@@ -23924,7 +23954,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at -43.18 267.97 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 94c3260d-8caa-4c2d-be64-84411367fd2e)
-    (property "Reference" "IC32" (at -35.56 266.065 0)
+    (property "Reference" "U32" (at -35.56 266.065 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS279" (at -35.56 268.605 0)
@@ -23967,7 +23997,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC32") (unit 5)
+          (reference "U32") (unit 5)
         )
       )
     )
@@ -24051,7 +24081,7 @@
   (symbol (lib_id "74xx:74LS32") (at 824.23 954.405 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9733ad26-db77-4421-9084-e7419245b5a7)
-    (property "Reference" "IC62" (at 824.23 946.15 0)
+    (property "Reference" "U62" (at 824.23 946.15 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 824.23 948.69 0)
@@ -24080,7 +24110,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC62") (unit 2)
+          (reference "U62") (unit 2)
         )
       )
     )
@@ -24089,7 +24119,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 1232.535 208.28 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9736175a-6bf4-4e73-96d8-485bb9f88718)
-    (property "Reference" "IC27" (at 1239.52 206.375 0)
+    (property "Reference" "U27" (at 1239.52 206.375 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS279" (at 1239.52 208.915 0)
@@ -24120,7 +24150,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC27") (unit 5)
+          (reference "U27") (unit 5)
         )
       )
     )
@@ -24129,7 +24159,7 @@
   (symbol (lib_id "74xx:74LS393") (at 599.44 867.41 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 974b5614-442d-4587-bd2a-288af853db44)
-    (property "Reference" "IC52" (at 605.79 866.14 0)
+    (property "Reference" "U52" (at 605.79 866.14 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS393" (at 605.79 868.68 0)
@@ -24158,7 +24188,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC52") (unit 3)
+          (reference "U52") (unit 3)
         )
       )
     )
@@ -24167,7 +24197,7 @@
   (symbol (lib_id "74xx:74LS07") (at 1084.58 123.19 0) (unit 6)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 97757019-390f-4470-8328-d783743ed80c)
-    (property "Reference" "IC13" (at 1084.58 114.935 0)
+    (property "Reference" "U13" (at 1084.58 114.935 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07" (at 1084.58 117.475 0)
@@ -24196,7 +24226,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC13") (unit 6)
+          (reference "U13") (unit 6)
         )
       )
     )
@@ -24205,7 +24235,7 @@
   (symbol (lib_id "74xx:74LS00") (at 1226.82 151.13 0) (mirror y) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9885951f-b0f6-49e9-a4b5-5971b203dd40)
-    (property "Reference" "IC68" (at 1233.17 149.86 0)
+    (property "Reference" "U68" (at 1233.17 149.86 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS00" (at 1233.17 152.4 0)
@@ -24234,7 +24264,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC68") (unit 5)
+          (reference "U68") (unit 5)
         )
       )
     )
@@ -24243,7 +24273,7 @@
   (symbol (lib_id "74xx:74LS32") (at 395.605 53.34 0) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 990d4a3b-957d-40ab-885c-d78e5a6e21b0)
-    (property "Reference" "IC55" (at 395.605 45.085 0)
+    (property "Reference" "U55" (at 395.605 45.085 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 395.605 47.625 0)
@@ -24284,7 +24314,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC55") (unit 3)
+          (reference "U55") (unit 3)
         )
       )
     )
@@ -24368,7 +24398,7 @@
   (symbol (lib_id "74xx:74LS00") (at 793.115 380.365 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9a8b6a66-16c7-47e3-b875-e13736876617)
-    (property "Reference" "IC30" (at 793.1067 371.475 0)
+    (property "Reference" "U30" (at 793.1067 371.475 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 793.1067 374.015 0)
@@ -24397,7 +24427,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC30") (unit 1)
+          (reference "U30") (unit 1)
         )
       )
     )
@@ -24406,7 +24436,7 @@
   (symbol (lib_id "74xx:74LS04") (at 935.99 42.545 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9ab7a714-a1dd-453c-ba94-c099b86ea9db)
-    (property "Reference" "IC73" (at 935.99 34.29 0)
+    (property "Reference" "U73" (at 935.99 34.29 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 935.99 36.83 0)
@@ -24447,7 +24477,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC73") (unit 3)
+          (reference "U73") (unit 3)
         )
       )
     )
@@ -24456,7 +24486,7 @@
   (symbol (lib_id "74xx:74LS07") (at 749.935 28.575 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9b014f36-a4d3-4bbc-a4c4-1bbff7e523c0)
-    (property "Reference" "IC29" (at 749.935 20.32 0)
+    (property "Reference" "U29" (at 749.935 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07P" (at 749.935 22.86 0)
@@ -24497,7 +24527,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC29") (unit 1)
+          (reference "U29") (unit 1)
         )
       )
     )
@@ -24506,7 +24536,7 @@
   (symbol (lib_id "74xx:74LS32") (at 801.37 934.72 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9b3643b0-065b-4753-8767-a5c050939ea2)
-    (property "Reference" "IC62" (at 801.37 925.83 0)
+    (property "Reference" "U62" (at 801.37 925.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 801.37 928.37 0)
@@ -24535,7 +24565,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC62") (unit 4)
+          (reference "U62") (unit 4)
         )
       )
     )
@@ -24645,7 +24675,7 @@
   (symbol (lib_id "74xx:74LS08") (at 596.265 566.42 0) (unit 4) (convert 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9d0f8bc4-2f42-40ed-b33e-27af47e11598)
-    (property "Reference" "IC66" (at 591.82 560.705 0)
+    (property "Reference" "U66" (at 591.82 560.705 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS08" (at 591.82 558.165 0)
@@ -24674,7 +24704,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC66") (unit 4)
+          (reference "U66") (unit 4)
         )
       )
     )
@@ -24683,7 +24713,7 @@
   (symbol (lib_id "74xx:74LS07") (at 1084.58 114.3 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9dde7176-9ab4-4257-a385-8494647e478f)
-    (property "Reference" "IC13" (at 1084.58 105.41 0)
+    (property "Reference" "U13" (at 1084.58 105.41 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07" (at 1084.58 107.95 0)
@@ -24712,7 +24742,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC13") (unit 5)
+          (reference "U13") (unit 5)
         )
       )
     )
@@ -24746,7 +24776,7 @@
   (symbol (lib_id "74xx:74LS08") (at 651.51 370.205 0) (unit 1) (convert 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9ef5c76e-66ae-4aab-8998-4939cf86a082)
-    (property "Reference" "IC34" (at 651.5017 362.585 0)
+    (property "Reference" "U34" (at 651.5017 362.585 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 651.5017 365.125 0)
@@ -24775,7 +24805,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC34") (unit 1)
+          (reference "U34") (unit 1)
         )
       )
     )
@@ -24834,7 +24864,7 @@
   (symbol (lib_id "74xx:74LS123") (at 782.32 894.715 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9f74b1e2-8b71-4707-a4f3-2c02a55bb2c7)
-    (property "Reference" "IC119" (at 789.305 893.445 0)
+    (property "Reference" "U119" (at 789.305 893.445 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS123" (at 789.305 895.985 0)
@@ -24865,7 +24895,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC119") (unit 3)
+          (reference "U119") (unit 3)
         )
       )
     )
@@ -24874,7 +24904,7 @@
   (symbol (lib_id "74xxMissing:7450") (at 958.85 34.925 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9fb9cf24-264b-4732-bbc4-81cad4d4159e)
-    (property "Reference" "IC67" (at 959.4215 20.955 0)
+    (property "Reference" "U67" (at 959.4215 20.955 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "7450" (at 959.4215 23.495 0)
@@ -24903,7 +24933,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC67") (unit 2)
+          (reference "U67") (unit 2)
         )
       )
     )
@@ -25038,7 +25068,7 @@
   (symbol (lib_id "74xx:74LS04") (at 343.535 48.26 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a14fb48f-c189-4a71-b8ec-3a37c7f20051)
-    (property "Reference" "IC44" (at 343.535 39.37 0)
+    (property "Reference" "U44" (at 343.535 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 343.535 41.91 0)
@@ -25079,7 +25109,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC44") (unit 4)
+          (reference "U44") (unit 4)
         )
       )
     )
@@ -25088,7 +25118,7 @@
   (symbol (lib_id "74xx:74LS00") (at -19.685 243.205 180) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a16b4bcd-d371-43ce-b689-45801b9758c5)
-    (property "Reference" "IC12" (at -11.43 241.935 0)
+    (property "Reference" "U12" (at -11.43 241.935 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS00" (at -11.43 244.475 0)
@@ -25129,7 +25159,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC12") (unit 5)
+          (reference "U12") (unit 5)
         )
       )
     )
@@ -25138,7 +25168,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 962.025 250.825 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a23da62a-44fc-4145-9498-00a2e936ef7e)
-    (property "Reference" "IC27" (at 962.025 260.35 0)
+    (property "Reference" "U27" (at 962.025 260.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS279" (at 962.025 257.81 0)
@@ -25169,7 +25199,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC27") (unit 2)
+          (reference "U27") (unit 2)
         )
       )
     )
@@ -25228,7 +25258,7 @@
   (symbol (lib_id "74xx:74LS11") (at 647.065 -33.02 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a31efbb4-5c76-4e69-b22e-c4ed3ad67943)
-    (property "Reference" "IC85" (at 647.0567 -41.275 0)
+    (property "Reference" "U85" (at 647.0567 -41.275 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS11" (at 647.0567 -38.735 0)
@@ -25269,7 +25299,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC85") (unit 3)
+          (reference "U85") (unit 3)
         )
       )
     )
@@ -25303,7 +25333,7 @@
   (symbol (lib_id "74xx:74LS04") (at 1011.555 109.22 270) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a42910c9-aa94-4104-9535-83a43c34a094)
-    (property "Reference" "IC6" (at 1019.175 109.22 0)
+    (property "Reference" "U6" (at 1019.175 109.22 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 1016.635 109.22 0)
@@ -25332,7 +25362,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC6") (unit 3)
+          (reference "U6") (unit 3)
         )
       )
     )
@@ -25366,7 +25396,7 @@
   (symbol (lib_id "74xx:74LS04") (at 390.525 300.99 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a71097c2-54cb-4c48-9734-61b8808cd999)
-    (property "Reference" "IC44" (at 390.525 292.735 0)
+    (property "Reference" "U44" (at 390.525 292.735 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 390.525 295.275 0)
@@ -25407,7 +25437,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC44") (unit 3)
+          (reference "U44") (unit 3)
         )
       )
     )
@@ -25441,7 +25471,7 @@
   (symbol (lib_id "74xx:74LS74") (at 257.81 54.61 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a73d2f93-d3c9-4d37-8d22-23d34d30448b)
-    (property "Reference" "IC50" (at 260.0041 44.45 0)
+    (property "Reference" "U50" (at 260.0041 44.45 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS74" (at 260.0041 46.99 0)
@@ -25482,7 +25512,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC50") (unit 2)
+          (reference "U50") (unit 2)
         )
       )
     )
@@ -25491,7 +25521,7 @@
   (symbol (lib_id "Memory_PROM:MB7137") (at 893.445 451.485 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a7c151ce-57c9-43b3-9855-0b815b11fa54)
-    (property "Reference" "IC84" (at 895.6391 431.165 0)
+    (property "Reference" "U84" (at 895.6391 431.165 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MB7137" (at 895.6391 433.705 0)
@@ -25530,7 +25560,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC84") (unit 1)
+          (reference "U84") (unit 1)
         )
       )
     )
@@ -25564,7 +25594,7 @@
   (symbol (lib_id "Memory_PROM:MB7137") (at 867.41 577.215 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a85095aa-edd9-4524-94e3-a2db546ee1aa)
-    (property "Reference" "IC71" (at 887.73 570.2869 90)
+    (property "Reference" "U71" (at 887.73 570.2869 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MB7137" (at 887.73 572.8269 90)
@@ -25603,7 +25633,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC71") (unit 1)
+          (reference "U71") (unit 1)
         )
       )
     )
@@ -25612,7 +25642,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 608.965 576.58 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a8a28a4c-cc48-4cb6-b285-f81fed646285)
-    (property "Reference" "IC51" (at 608.965 586.74 0)
+    (property "Reference" "U51" (at 608.965 586.74 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS279" (at 608.965 584.2 0)
@@ -25643,7 +25673,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC51") (unit 2)
+          (reference "U51") (unit 2)
         )
       )
     )
@@ -25728,7 +25758,7 @@
   (symbol (lib_id "74xx:74LS74") (at 185.42 213.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aa87b10e-6ca1-47a6-be8c-0fe639267464)
-    (property "Reference" "IC37" (at 187.6141 203.835 0)
+    (property "Reference" "U37" (at 187.6141 203.835 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS74" (at 187.6141 206.375 0)
@@ -25757,7 +25787,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC37") (unit 1)
+          (reference "U37") (unit 1)
         )
       )
     )
@@ -25766,7 +25796,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 1011.555 208.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aae16626-4ebd-4878-a39f-88915c82738e)
-    (property "Reference" "IC27" (at 1011.555 198.12 0)
+    (property "Reference" "U27" (at 1011.555 198.12 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS279" (at 1011.555 200.66 0)
@@ -25797,7 +25827,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC27") (unit 1)
+          (reference "U27") (unit 1)
         )
       )
     )
@@ -25907,7 +25937,7 @@
   (symbol (lib_id "74xx:74LS08") (at 819.15 42.545 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ad23f20b-d0bf-492a-88c4-42075b49e7a8)
-    (property "Reference" "IC22" (at 819.1417 51.435 0)
+    (property "Reference" "U22" (at 819.1417 51.435 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 819.1417 48.895 0)
@@ -25948,7 +25978,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC22") (unit 1)
+          (reference "U22") (unit 1)
         )
       )
     )
@@ -25957,7 +25987,7 @@
   (symbol (lib_id "74xx:74LS00") (at 720.725 955.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ad3fe77a-3456-45fb-b079-04ba105174a8)
-    (property "Reference" "IC56" (at 720.7167 946.15 0)
+    (property "Reference" "U56" (at 720.7167 946.15 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 720.7167 948.69 0)
@@ -25986,7 +26016,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC56") (unit 1)
+          (reference "U56") (unit 1)
         )
       )
     )
@@ -26096,7 +26126,7 @@
   (symbol (lib_id "74xx:74LS04") (at 697.23 49.53 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aebd8a66-1378-4bf7-a418-a5955a805a73)
-    (property "Reference" "IC6" (at 697.23 40.64 0)
+    (property "Reference" "U6" (at 697.23 40.64 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 697.23 43.18 0)
@@ -26125,7 +26155,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC6") (unit 4)
+          (reference "U6") (unit 4)
         )
       )
     )
@@ -26184,7 +26214,7 @@
   (symbol (lib_id "74xx:74LS74") (at -42.545 370.205 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid afd6cae4-aa35-4382-af7b-0300d49138ce)
-    (property "Reference" "IC33" (at -36.195 368.935 0)
+    (property "Reference" "U33" (at -36.195 368.935 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS74" (at -36.195 371.475 0)
@@ -26225,7 +26255,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC33") (unit 3)
+          (reference "U33") (unit 3)
         )
       )
     )
@@ -26234,7 +26264,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 803.275 572.135 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b0a609d1-e20c-4b55-ba53-772f8f9c6b16)
-    (property "Reference" "IC51" (at 803.275 562.61 0)
+    (property "Reference" "U51" (at 803.275 562.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS279" (at 803.275 565.15 0)
@@ -26265,7 +26295,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC51") (unit 3)
+          (reference "U51") (unit 3)
         )
       )
     )
@@ -26274,7 +26304,7 @@
   (symbol (lib_id "74xx:74LS20") (at 893.445 338.455 0) (unit 1) (convert 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b1034119-8854-401d-b92d-080807591fd0)
-    (property "Reference" "IC47" (at 893.4353 347.345 0)
+    (property "Reference" "U47" (at 893.4353 347.345 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS20" (at 893.4353 344.805 0)
@@ -26301,7 +26331,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC47") (unit 1)
+          (reference "U47") (unit 1)
         )
       )
     )
@@ -26310,7 +26340,7 @@
   (symbol (lib_id "74xx:74LS393") (at 831.215 222.885 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b126d897-0aa5-45d3-bbbf-db898014fe99)
-    (property "Reference" "IC19" (at 840.74 221.615 90)
+    (property "Reference" "U19" (at 840.74 221.615 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS393" (at 840.74 224.155 90)
@@ -26339,7 +26369,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC19") (unit 1)
+          (reference "U19") (unit 1)
         )
       )
     )
@@ -26348,7 +26378,7 @@
   (symbol (lib_id "74xx:74LS08") (at 696.595 264.795 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b18a4753-1fb9-45da-a267-ebd55437fb77)
-    (property "Reference" "IC2" (at 696.5867 257.175 0)
+    (property "Reference" "U2" (at 696.5867 257.175 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 696.5867 259.715 0)
@@ -26377,7 +26407,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC2") (unit 3)
+          (reference "U2") (unit 3)
         )
       )
     )
@@ -26411,7 +26441,7 @@
   (symbol (lib_id "74xx:74LS07") (at 1228.09 247.015 0) (unit 7)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b1f4dc5f-e6fa-4c42-81e1-c38136b71eed)
-    (property "Reference" "IC31" (at 1235.075 245.745 0)
+    (property "Reference" "U31" (at 1235.075 245.745 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS07P" (at 1235.075 248.285 0)
@@ -26452,7 +26482,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC31") (unit 7)
+          (reference "U31") (unit 7)
         )
       )
     )
@@ -26536,7 +26566,7 @@
   (symbol (lib_id "74xx:74LS153") (at 734.695 280.035 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b40f7a36-9a74-4e9d-926f-2db725057645)
-    (property "Reference" "IC3" (at 736.8891 255.27 0)
+    (property "Reference" "U3" (at 736.8891 255.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS153" (at 736.8891 257.81 0)
@@ -26567,7 +26597,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC3") (unit 1)
+          (reference "U3") (unit 1)
         )
       )
     )
@@ -26579,7 +26609,7 @@
     (property "Reference" "R4" (at 25.4 37.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R_US" (at 25.4 40.005 0)
+    (property "Value" "12k" (at 25.4 40.005 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" (at 23.876 38.989 90)
@@ -26602,7 +26632,7 @@
   (symbol (lib_id "74xx:74LS07") (at 553.085 -86.36 0) (unit 7)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b4c1679a-b3d8-4790-9fb6-31d22dfdfd54)
-    (property "Reference" "IC29" (at 560.07 -87.63 0)
+    (property "Reference" "U29" (at 560.07 -87.63 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS07P" (at 560.07 -85.09 0)
@@ -26643,7 +26673,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC29") (unit 7)
+          (reference "U29") (unit 7)
         )
       )
     )
@@ -26652,7 +26682,7 @@
   (symbol (lib_id "74xx:74LS157") (at 776.605 170.815 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b508ebe6-3c7c-479b-800d-57e3743b2f37)
-    (property "Reference" "IC60" (at 778.7991 147.955 0)
+    (property "Reference" "U60" (at 778.7991 147.955 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS157" (at 778.7991 150.495 0)
@@ -26683,7 +26713,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC60") (unit 1)
+          (reference "U60") (unit 1)
         )
       )
     )
@@ -26692,7 +26722,7 @@
   (symbol (lib_id "74xx:74LS10") (at 668.655 907.415 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b5581d74-9b28-44df-b09f-7f9207a35cb7)
-    (property "Reference" "IC80" (at 668.6467 899.16 0)
+    (property "Reference" "U80" (at 668.6467 899.16 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS10" (at 668.6467 901.7 0)
@@ -26721,7 +26751,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC80") (unit 1)
+          (reference "U80") (unit 1)
         )
       )
     )
@@ -26857,7 +26887,7 @@
   (symbol (lib_id "74xx:74LS02") (at 138.43 146.685 0) (mirror y) (unit 3) (convert 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b80cc8c1-0788-48f7-9932-1602a43fdf95)
-    (property "Reference" "IC72" (at 138.43 139.065 0)
+    (property "Reference" "U72" (at 138.43 139.065 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS02" (at 138.43 141.605 0)
@@ -26886,7 +26916,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC72") (unit 3)
+          (reference "U72") (unit 3)
         )
       )
     )
@@ -26895,7 +26925,7 @@
   (symbol (lib_id "74xx:74LS32") (at 276.86 99.06 0) (mirror y) (unit 2) (convert 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b8d7b16b-e31f-4804-a52d-9b2a7f515783)
-    (property "Reference" "IC55" (at 276.86 90.17 0)
+    (property "Reference" "U55" (at 276.86 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 276.86 92.71 0)
@@ -26936,7 +26966,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC55") (unit 2)
+          (reference "U55") (unit 2)
         )
       )
     )
@@ -26945,7 +26975,7 @@
   (symbol (lib_id "74xx:74LS04") (at 626.11 612.775 90) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b8dd0a81-11ed-4f0a-9526-33bb343a70c8)
-    (property "Reference" "IC46" (at 631.19 611.505 90)
+    (property "Reference" "U46" (at 631.19 611.505 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS04" (at 631.19 614.045 90)
@@ -26974,7 +27004,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC46") (unit 3)
+          (reference "U46") (unit 3)
         )
       )
     )
@@ -27059,7 +27089,7 @@
   (symbol (lib_id "74xx:74LS85") (at 677.545 541.02 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b9cc2ed8-a576-4532-ad01-107d2364c34b)
-    (property "Reference" "IC53" (at 684.4731 558.165 90)
+    (property "Reference" "U53" (at 684.4731 558.165 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS85" (at 681.9331 558.165 90)
@@ -27090,7 +27120,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC53") (unit 1)
+          (reference "U53") (unit 1)
         )
       )
     )
@@ -27099,7 +27129,7 @@
   (symbol (lib_id "74xx:74LS20") (at 636.27 347.98 0) (unit 2) (convert 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bb233a00-a1a5-4b8d-b1f0-8f33c2eae90e)
-    (property "Reference" "IC14" (at 636.2603 338.455 0)
+    (property "Reference" "U14" (at 636.2603 338.455 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS20" (at 636.2603 340.995 0)
@@ -27126,7 +27156,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC14") (unit 2)
+          (reference "U14") (unit 2)
         )
       )
     )
@@ -27160,7 +27190,7 @@
   (symbol (lib_id "74xx:74LS393") (at 991.235 47.625 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bbb7e4b5-a296-40d0-8345-c1f60abcb539)
-    (property "Reference" "IC5" (at 1000.125 46.355 90)
+    (property "Reference" "U5" (at 1000.125 46.355 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS393" (at 1000.125 48.895 90)
@@ -27189,7 +27219,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC5") (unit 1)
+          (reference "U5") (unit 1)
         )
       )
     )
@@ -27275,7 +27305,7 @@
   (symbol (lib_id "74xx:74LS193") (at 838.835 354.965 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bcebd67b-4809-44b5-a9f7-95a6d9c7e729)
-    (property "Reference" "IC36" (at 859.79 352.7491 90)
+    (property "Reference" "U36" (at 859.79 352.7491 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS193" (at 859.79 355.2891 90)
@@ -27306,7 +27336,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC36") (unit 1)
+          (reference "U36") (unit 1)
         )
       )
     )
@@ -27315,7 +27345,7 @@
   (symbol (lib_id "74xx:74LS85") (at 843.28 78.105 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid be19ce3a-7861-4afe-a548-e4cb0d382e06)
-    (property "Reference" "IC7" (at 859.79 70.485 90)
+    (property "Reference" "U7" (at 859.79 70.485 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS85" (at 859.79 72.39 90)
@@ -27346,7 +27376,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC7") (unit 1)
+          (reference "U7") (unit 1)
         )
       )
     )
@@ -27405,7 +27435,7 @@
   (symbol (lib_id "74xx:74LS04") (at 1014.095 101.6 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bfafb618-16a4-44d0-8e9b-61388e4a119b)
-    (property "Reference" "IC6" (at 1021.715 101.6 0)
+    (property "Reference" "U6" (at 1021.715 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 1019.175 101.6 0)
@@ -27434,7 +27464,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC6") (unit 1)
+          (reference "U6") (unit 1)
         )
       )
     )
@@ -27493,7 +27523,7 @@
   (symbol (lib_id "74xx:74LS00") (at 788.035 572.135 0) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c17ac0a9-157e-448c-b75c-e2e435f0eb15)
-    (property "Reference" "IC56" (at 788.0267 581.025 0)
+    (property "Reference" "U56" (at 788.0267 581.025 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 788.0267 578.485 0)
@@ -27522,7 +27552,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC56") (unit 4)
+          (reference "U56") (unit 4)
         )
       )
     )
@@ -27531,7 +27561,7 @@
   (symbol (lib_id "74xx:74LS04") (at 679.45 451.485 270) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c1d53983-2cec-4ba8-8589-b168b2d0d9df)
-    (property "Reference" "IC46" (at 685.165 450.215 90)
+    (property "Reference" "U46" (at 685.165 450.215 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS04" (at 685.165 452.755 90)
@@ -27560,7 +27590,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC46") (unit 5)
+          (reference "U46") (unit 5)
         )
       )
     )
@@ -27569,7 +27599,7 @@
   (symbol (lib_id "74xxMissing:7450") (at 864.87 -25.4 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c210cb34-07e7-4b98-885c-d0ae2f423774)
-    (property "Reference" "IC67" (at 871.22 -26.035 0)
+    (property "Reference" "U67" (at 871.22 -26.035 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "7450" (at 871.22 -23.495 0)
@@ -27598,7 +27628,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC67") (unit 3)
+          (reference "U67") (unit 3)
         )
       )
     )
@@ -27607,7 +27637,7 @@
   (symbol (lib_id "74xx:74LS193") (at 884.555 361.315 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c24f9190-2240-4d30-a45b-fd5acc0c1770)
-    (property "Reference" "IC35" (at 866.775 371.475 90)
+    (property "Reference" "U35" (at 866.775 371.475 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS193" (at 866.775 368.935 90)
@@ -27638,7 +27668,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC35") (unit 1)
+          (reference "U35") (unit 1)
         )
       )
     )
@@ -27647,7 +27677,7 @@
   (symbol (lib_id "74xx:74LS32") (at 820.42 931.545 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c250bd15-5840-4ba7-82ba-cc09bc637d11)
-    (property "Reference" "IC62" (at 826.77 930.275 0)
+    (property "Reference" "U62" (at 826.77 930.275 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS32" (at 826.77 932.815 0)
@@ -27676,7 +27706,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC62") (unit 5)
+          (reference "U62") (unit 5)
         )
       )
     )
@@ -27710,7 +27740,7 @@
   (symbol (lib_id "74xx:74LS123") (at 618.49 -16.51 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c48cf52c-89ce-421e-a191-0b143c312161)
-    (property "Reference" "IC49" (at 624.84 -17.78 0)
+    (property "Reference" "U49" (at 624.84 -17.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS123" (at 624.84 -15.24 0)
@@ -27753,7 +27783,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC49") (unit 3)
+          (reference "U49") (unit 3)
         )
       )
     )
@@ -27787,7 +27817,7 @@
   (symbol (lib_id "74xx:74LS02") (at 804.545 -66.675 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c54043ee-f070-4348-85aa-d4351ba8fd32)
-    (property "Reference" "IC63" (at 811.53 -67.945 0)
+    (property "Reference" "U63" (at 811.53 -67.945 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS02" (at 811.53 -65.405 0)
@@ -27816,7 +27846,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC63") (unit 5)
+          (reference "U63") (unit 5)
         )
       )
     )
@@ -27902,7 +27932,7 @@
   (symbol (lib_id "74xx:74LS85") (at 838.835 248.285 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c5b2a25f-60de-47ba-8cbd-f9a66cc4d00d)
-    (property "Reference" "IC18" (at 856.615 241.3569 90)
+    (property "Reference" "U18" (at 856.615 241.3569 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS85" (at 856.615 243.8969 90)
@@ -27933,7 +27963,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC18") (unit 1)
+          (reference "U18") (unit 1)
         )
       )
     )
@@ -27967,7 +27997,7 @@
   (symbol (lib_id "74xx:74LS32") (at 406.4 146.05 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c689eec8-156e-4a0d-86a2-130f097567f0)
-    (property "Reference" "IC55" (at 406.4 139.7 0)
+    (property "Reference" "U55" (at 406.4 139.7 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 406.4 137.16 0)
@@ -28008,7 +28038,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC55") (unit 4)
+          (reference "U55") (unit 4)
         )
       )
     )
@@ -28042,7 +28072,7 @@
   (symbol (lib_id "74xx:74LS00") (at 662.94 199.39 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c7645b17-1b31-4df6-939e-5fda041a6ca8)
-    (property "Reference" "IC48" (at 662.9317 190.5 0)
+    (property "Reference" "U48" (at 662.9317 190.5 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 662.9317 193.04 0)
@@ -28071,7 +28101,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC48") (unit 3)
+          (reference "U48") (unit 3)
         )
       )
     )
@@ -28105,7 +28135,7 @@
   (symbol (lib_id "74xx:74LS04") (at 1016.635 104.14 270) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c7a8279f-c636-42b8-b18b-4befa12024f1)
-    (property "Reference" "IC6" (at 1023.62 104.14 0)
+    (property "Reference" "U6" (at 1023.62 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 1021.08 104.14 0)
@@ -28134,7 +28164,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC6") (unit 2)
+          (reference "U6") (unit 2)
         )
       )
     )
@@ -28169,7 +28199,7 @@
   (symbol (lib_id "74xx:74LS02") (at 792.48 -81.915 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c9c441b0-0f69-460a-8d4c-281e12d51da7)
-    (property "Reference" "IC63" (at 792.48 -88.9 0)
+    (property "Reference" "U63" (at 792.48 -88.9 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS02" (at 792.48 -86.36 0)
@@ -28198,7 +28228,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC63") (unit 3)
+          (reference "U63") (unit 3)
         )
       )
     )
@@ -28207,7 +28237,7 @@
   (symbol (lib_id "74xx:74LS123") (at 158.75 299.085 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c9dc6857-8966-4aa4-a573-841b96678277)
-    (property "Reference" "IC38" (at 158.75 288.29 0)
+    (property "Reference" "U38" (at 158.75 288.29 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS123" (at 158.75 290.83 0)
@@ -28250,7 +28280,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC38") (unit 1)
+          (reference "U38") (unit 1)
         )
       )
     )
@@ -28284,7 +28314,7 @@
   (symbol (lib_id "74xx:74LS07") (at 1084.58 105.41 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ca588ff5-2a37-4a06-a680-0fa2f542a579)
-    (property "Reference" "IC13" (at 1084.58 96.52 0)
+    (property "Reference" "U13" (at 1084.58 96.52 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07" (at 1084.58 99.06 0)
@@ -28313,7 +28343,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC13") (unit 4)
+          (reference "U13") (unit 4)
         )
       )
     )
@@ -28322,7 +28352,7 @@
   (symbol (lib_id "74xx:74LS20") (at 742.95 232.41 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cabf7e04-0899-4dc2-a1d5-d9c0da877377)
-    (property "Reference" "IC47" (at 742.9403 223.52 0)
+    (property "Reference" "U47" (at 742.9403 223.52 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS20" (at 742.9403 226.06 0)
@@ -28349,7 +28379,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC47") (unit 2)
+          (reference "U47") (unit 2)
         )
       )
     )
@@ -28408,7 +28438,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 708.025 73.025 0) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cbafa7e8-f58d-4c3c-8a6f-169cc80d2e63)
-    (property "Reference" "IC32" (at 708.025 66.675 0)
+    (property "Reference" "U32" (at 708.025 66.675 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS279" (at 708.025 64.77 0)
@@ -28451,7 +28481,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC32") (unit 4)
+          (reference "U32") (unit 4)
         )
       )
     )
@@ -28560,7 +28590,7 @@
   (symbol (lib_id "74xx:74LS32") (at 984.25 273.685 0) (unit 4) (convert 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cc700226-4cf9-4a27-a9e8-365acde4b76f)
-    (property "Reference" "IC23" (at 984.25 266.065 0)
+    (property "Reference" "U23" (at 984.25 266.065 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 984.25 268.605 0)
@@ -28589,7 +28619,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC23") (unit 4)
+          (reference "U23") (unit 4)
         )
       )
     )
@@ -28623,10 +28653,10 @@
   (symbol (lib_id "Device:C_Polarized_US") (at 596.265 428.625 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cd4eddf4-a9f1-479a-8a56-a89e9895710c)
-    (property "Reference" "C6" (at 600.075 426.72 0)
+    (property "Reference" "C6" (at 599.44 426.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "C_Polarized_US" (at 600.075 429.26 0)
+    (property "Value" "680p" (at 599.44 429.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" (at 596.265 428.625 0)
@@ -28649,7 +28679,7 @@
   (symbol (lib_id "74xx:74LS10") (at 661.67 993.14 90) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cd7da57b-9a54-46c0-bf9c-d0cb9f55bed9)
-    (property "Reference" "IC45" (at 661.67 982.98 90)
+    (property "Reference" "U45" (at 661.67 982.98 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS10" (at 661.67 985.52 90)
@@ -28678,7 +28708,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC45") (unit 4)
+          (reference "U45") (unit 4)
         )
       )
     )
@@ -28712,7 +28742,7 @@
   (symbol (lib_id "74xx:74LS07") (at 577.215 -118.11 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cf17ffd0-b628-45c7-b454-385ddc23abe0)
-    (property "Reference" "IC29" (at 577.215 -127 0)
+    (property "Reference" "U29" (at 577.215 -127 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07P" (at 577.215 -124.46 0)
@@ -28753,7 +28783,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC29") (unit 2)
+          (reference "U29") (unit 2)
         )
       )
     )
@@ -28787,7 +28817,7 @@
   (symbol (lib_id "74xx:74LS192") (at 136.525 69.215 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cf736de6-9c2a-4a6b-ab4b-6b7a4351976e)
-    (property "Reference" "IC21" (at 156.21 62.23 90)
+    (property "Reference" "U21" (at 156.21 62.23 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS192" (at 156.21 64.77 90)
@@ -28818,7 +28848,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC21") (unit 1)
+          (reference "U21") (unit 1)
         )
       )
     )
@@ -28852,7 +28882,7 @@
   (symbol (lib_id "74xx:74LS10") (at 687.07 915.67 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d07b2eaf-1d74-4ed0-a4db-f9db0144fa7c)
-    (property "Reference" "IC80" (at 693.42 914.4 0)
+    (property "Reference" "U80" (at 693.42 914.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS10" (at 693.42 916.94 0)
@@ -28881,7 +28911,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC80") (unit 4)
+          (reference "U80") (unit 4)
         )
       )
     )
@@ -28890,7 +28920,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 777.24 132.715 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d07b6ae1-e8ea-43ed-97de-b3e16d46ef0c)
-    (property "Reference" "IC27" (at 777.24 123.19 0)
+    (property "Reference" "U27" (at 777.24 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS279" (at 777.24 125.73 0)
@@ -28921,7 +28951,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC27") (unit 4)
+          (reference "U27") (unit 4)
         )
       )
     )
@@ -28956,7 +28986,7 @@
   (symbol (lib_id "74xx:74LS11") (at 511.81 73.025 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d0f3db1c-c0c1-4eb7-b31e-d867ea30591c)
-    (property "Reference" "IC85" (at 511.8017 64.77 0)
+    (property "Reference" "U85" (at 511.8017 64.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS11" (at 511.8017 67.31 0)
@@ -28997,7 +29027,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC85") (unit 1)
+          (reference "U85") (unit 1)
         )
       )
     )
@@ -29031,7 +29061,7 @@
   (symbol (lib_id "74xx:74LS07") (at 580.39 -55.88 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d1a1c8a3-42bd-40a2-9245-86b2176779ae)
-    (property "Reference" "IC29" (at 580.39 -64.77 0)
+    (property "Reference" "U29" (at 580.39 -64.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07P" (at 580.39 -62.23 0)
@@ -29072,7 +29102,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC29") (unit 5)
+          (reference "U29") (unit 5)
         )
       )
     )
@@ -29081,7 +29111,7 @@
   (symbol (lib_id "74xx:74LS04") (at -69.85 180.34 0) (unit 7)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d1e0f754-9617-405e-a7f1-35cce690108d)
-    (property "Reference" "IC44" (at -63.5 179.07 0)
+    (property "Reference" "U44" (at -63.5 179.07 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS04" (at -63.5 181.61 0)
@@ -29122,7 +29152,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC44") (unit 7)
+          (reference "U44") (unit 7)
         )
       )
     )
@@ -29181,7 +29211,7 @@
   (symbol (lib_id "74xxMissing:74LS279") (at 130.175 215.9 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d3580d86-ae63-4e2e-aae4-5ae56e52655e)
-    (property "Reference" "IC32" (at 130.175 206.375 0)
+    (property "Reference" "U32" (at 130.175 206.375 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS279" (at 130.175 208.915 0)
@@ -29224,7 +29254,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC32") (unit 2)
+          (reference "U32") (unit 2)
         )
       )
     )
@@ -29259,7 +29289,7 @@
   (symbol (lib_id "74xx:74LS04") (at 783.59 -133.985 0) (unit 7)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d3eef467-0f03-4680-865a-2560c8f02fbb)
-    (property "Reference" "IC6" (at 789.94 -135.255 0)
+    (property "Reference" "U6" (at 789.94 -135.255 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS04" (at 789.94 -132.715 0)
@@ -29288,7 +29318,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC6") (unit 7)
+          (reference "U6") (unit 7)
         )
       )
     )
@@ -29297,7 +29327,7 @@
   (symbol (lib_id "74xx:74LS04") (at 660.4 463.55 270) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d6e513e7-d444-4d9e-ad42-fa521454f771)
-    (property "Reference" "IC46" (at 666.115 462.28 90)
+    (property "Reference" "U46" (at 666.115 462.28 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS04" (at 666.115 464.82 90)
@@ -29326,7 +29356,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC46") (unit 2)
+          (reference "U46") (unit 2)
         )
       )
     )
@@ -29360,7 +29390,7 @@
   (symbol (lib_id "74xx:74LS123") (at 637.54 247.015 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d71c676c-335a-49e0-8c3f-9106597e87fd)
-    (property "Reference" "IC49" (at 637.54 236.22 0)
+    (property "Reference" "U49" (at 637.54 236.22 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS123" (at 637.54 238.76 0)
@@ -29403,7 +29433,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC49") (unit 2)
+          (reference "U49") (unit 2)
         )
       )
     )
@@ -29462,7 +29492,7 @@
   (symbol (lib_id "74xx:74LS00") (at 788.035 587.375 0) (mirror x) (unit 3)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d8b7e3a3-f37b-4d96-97f6-af8ae66f939a)
-    (property "Reference" "IC56" (at 788.0267 596.265 0)
+    (property "Reference" "U56" (at 788.0267 596.265 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 788.0267 593.725 0)
@@ -29491,7 +29521,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC56") (unit 3)
+          (reference "U56") (unit 3)
         )
       )
     )
@@ -29527,7 +29557,7 @@
   (symbol (lib_id "74xx:74LS00") (at 650.875 454.66 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid da47770a-2efe-40f0-b896-623f928e737f)
-    (property "Reference" "IC48" (at 657.86 454.6517 0)
+    (property "Reference" "U48" (at 657.86 454.6517 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 655.32 454.6517 0)
@@ -29556,7 +29586,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC48") (unit 1)
+          (reference "U48") (unit 1)
         )
       )
     )
@@ -29590,7 +29620,7 @@
   (symbol (lib_id "74xx:74LS07") (at 527.05 73.025 0) (unit 6)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid db813a68-d200-4147-aaa4-6f89b507c429)
-    (property "Reference" "IC29" (at 527.05 64.135 0)
+    (property "Reference" "U29" (at 527.05 64.135 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07P" (at 527.05 66.675 0)
@@ -29631,7 +29661,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC29") (unit 6)
+          (reference "U29") (unit 6)
         )
       )
     )
@@ -29690,7 +29720,7 @@
   (symbol (lib_id "74xx:74LS04") (at 1033.145 101.6 90) (unit 6)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dbda9678-d92f-4b29-b803-f734e74fba2e)
-    (property "Reference" "IC6" (at 1038.86 100.33 90)
+    (property "Reference" "U6" (at 1038.86 100.33 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS04" (at 1038.86 102.87 90)
@@ -29719,7 +29749,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC6") (unit 6)
+          (reference "U6") (unit 6)
         )
       )
     )
@@ -29754,7 +29784,7 @@
   (symbol (lib_id "74xx:74LS08") (at 101.6 106.045 90) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dca9a934-0300-4690-aab1-ae9b10ed7ae0)
-    (property "Reference" "IC22" (at 106.68 104.7833 90)
+    (property "Reference" "U22" (at 106.68 104.7833 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS08" (at 106.68 107.3233 90)
@@ -29795,7 +29825,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC22") (unit 2)
+          (reference "U22") (unit 2)
         )
       )
     )
@@ -29804,7 +29834,7 @@
   (symbol (lib_id "74xx:74LS27") (at 239.395 -23.495 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dd202ca9-eb44-45d7-9d16-095d89e46353)
-    (property "Reference" "IC74" (at 245.11 -24.765 90)
+    (property "Reference" "U74" (at 245.11 -24.765 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS27" (at 245.11 -22.225 90)
@@ -29833,7 +29863,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC74") (unit 1)
+          (reference "U74") (unit 1)
         )
       )
     )
@@ -29842,7 +29872,7 @@
   (symbol (lib_id "74xx:74LS32") (at 799.465 952.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dec88108-6195-4836-9ed3-0567578f2d77)
-    (property "Reference" "IC62" (at 799.465 943.61 0)
+    (property "Reference" "U62" (at 799.465 943.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 799.465 946.15 0)
@@ -29871,7 +29901,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC62") (unit 1)
+          (reference "U62") (unit 1)
         )
       )
     )
@@ -29905,7 +29935,7 @@
   (symbol (lib_id "74xx:74LS08") (at 713.105 -73.66 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid df7ffc61-7113-44b8-a4ea-c1c8e8864108)
-    (property "Reference" "IC22" (at 713.0967 -81.915 0)
+    (property "Reference" "U22" (at 713.0967 -81.915 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 713.0967 -79.375 0)
@@ -29946,7 +29976,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC22") (unit 3)
+          (reference "U22") (unit 3)
         )
       )
     )
@@ -29955,7 +29985,7 @@
   (symbol (lib_id "74xx:74LS02") (at 652.78 153.67 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e0377b50-e59f-4d3d-ae03-5e1e0a81261e)
-    (property "Reference" "IC61" (at 647.7 152.4 90)
+    (property "Reference" "U61" (at 647.7 152.4 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS02" (at 647.7 154.94 90)
@@ -29996,7 +30026,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC61") (unit 1)
+          (reference "U61") (unit 1)
         )
       )
     )
@@ -30126,7 +30156,7 @@
   (symbol (lib_id "74xx:74LS04") (at 836.93 857.885 0) (unit 6)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e3f856f2-505d-4733-92ea-670e8e644d54)
-    (property "Reference" "IC46" (at 836.93 848.995 0)
+    (property "Reference" "U46" (at 836.93 848.995 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS04" (at 836.93 851.535 0)
@@ -30155,7 +30185,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC46") (unit 6)
+          (reference "U46") (unit 6)
         )
       )
     )
@@ -30190,7 +30220,7 @@
   (symbol (lib_id "74xx:74LS32") (at 684.53 -76.835 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e48e399f-bcd6-44a6-8da9-9411e205c87b)
-    (property "Reference" "IC23" (at 690.88 -78.105 0)
+    (property "Reference" "U23" (at 690.88 -78.105 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS32" (at 690.88 -75.565 0)
@@ -30219,7 +30249,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC23") (unit 5)
+          (reference "U23") (unit 5)
         )
       )
     )
@@ -30228,7 +30258,7 @@
   (symbol (lib_id "74xx:74LS123") (at 637.54 201.93 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e4a7478c-5144-490e-b03f-a14a5db3b424)
-    (property "Reference" "IC43" (at 637.54 189.23 0)
+    (property "Reference" "U43" (at 637.54 189.23 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS123" (at 637.54 191.77 0)
@@ -30259,7 +30289,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC43") (unit 2)
+          (reference "U43") (unit 2)
         )
       )
     )
@@ -30268,7 +30298,7 @@
   (symbol (lib_id "74xx:74LS86") (at 712.47 52.07 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e4d5eea3-2782-44f0-aa3f-2717f02e035b)
-    (property "Reference" "IC16" (at 712.1652 59.69 0)
+    (property "Reference" "U16" (at 712.1652 59.69 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS86" (at 712.1652 57.15 0)
@@ -30297,7 +30327,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC16") (unit 2)
+          (reference "U16") (unit 2)
         )
       )
     )
@@ -30306,7 +30336,7 @@
   (symbol (lib_id "74xx:74LS123") (at 594.995 -24.13 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e4de6076-812e-4916-854d-89159b7af343)
-    (property "Reference" "IC43" (at 601.98 -25.4 0)
+    (property "Reference" "U43" (at 601.98 -25.4 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS123" (at 601.98 -22.86 0)
@@ -30337,7 +30367,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC43") (unit 3)
+          (reference "U43") (unit 3)
         )
       )
     )
@@ -30397,7 +30427,7 @@
   (symbol (lib_id "74xxMissing:7450") (at 913.13 74.295 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e643e22c-15df-4ecb-96f6-ec4f47c0c594)
-    (property "Reference" "IC67" (at 902.97 73.5965 90)
+    (property "Reference" "U67" (at 902.97 73.5965 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "7450" (at 902.97 76.1365 90)
@@ -30426,7 +30456,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC67") (unit 1)
+          (reference "U67") (unit 1)
         )
       )
     )
@@ -30486,7 +30516,7 @@
   (symbol (lib_id "74xx:74LS08") (at 280.035 136.525 0) (unit 4)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e692b83b-bce4-4022-a702-2cffe6f08263)
-    (property "Reference" "IC22" (at 280.0267 128.27 0)
+    (property "Reference" "U22" (at 280.0267 128.27 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 280.0267 130.81 0)
@@ -30527,7 +30557,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC22") (unit 4)
+          (reference "U22") (unit 4)
         )
       )
     )
@@ -30536,7 +30566,7 @@
   (symbol (lib_id "74xx:74LS02") (at 420.37 -59.69 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e6beb6b0-00be-4172-bbe2-fcf10caba0e4)
-    (property "Reference" "IC61" (at 420.37 -67.31 0)
+    (property "Reference" "U61" (at 420.37 -67.31 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS02" (at 420.37 -64.77 0)
@@ -30577,7 +30607,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC61") (unit 3)
+          (reference "U61") (unit 3)
         )
       )
     )
@@ -30663,7 +30693,7 @@
   (symbol (lib_id "74xx:74LS393") (at 518.16 -20.32 90) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e77cc4d0-f476-4b18-bc5a-edbca8f34e87)
-    (property "Reference" "IC79" (at 527.05 -21.59 90)
+    (property "Reference" "U79" (at 527.05 -21.59 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS393" (at 527.05 -19.05 90)
@@ -30692,7 +30722,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC79") (unit 2)
+          (reference "U79") (unit 2)
         )
       )
     )
@@ -30726,7 +30756,7 @@
   (symbol (lib_id "74xx:74LS85") (at 884.555 290.195 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e7a17472-8a87-4a0e-bc06-5413baa46913)
-    (property "Reference" "IC41" (at 901.7 287.9791 90)
+    (property "Reference" "U41" (at 901.7 287.9791 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS85" (at 901.7 290.5191 90)
@@ -30757,7 +30787,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC41") (unit 1)
+          (reference "U41") (unit 1)
         )
       )
     )
@@ -30766,7 +30796,7 @@
   (symbol (lib_id "74xx:74LS00") (at 681.99 864.235 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e8a5e879-081d-4f74-b057-488a7d436fd1)
-    (property "Reference" "IC30" (at 681.9817 855.98 0)
+    (property "Reference" "U30" (at 681.9817 855.98 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 681.9817 858.52 0)
@@ -30795,7 +30825,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC30") (unit 2)
+          (reference "U30") (unit 2)
         )
       )
     )
@@ -30830,7 +30860,7 @@
   (symbol (lib_id "Timer:NE555P") (at 51.435 34.925 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e9141d3d-b8fc-47be-bea9-d1a4aebacfbf)
-    (property "Reference" "IC26" (at 57.785 22.86 0)
+    (property "Reference" "U26" (at 57.785 22.86 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "NE555P" (at 60.96 24.765 0)
@@ -30865,7 +30895,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC26") (unit 1)
+          (reference "U26") (unit 1)
         )
       )
     )
@@ -30874,7 +30904,7 @@
   (symbol (lib_id "74xx:74LS32") (at 801.37 49.53 0) (unit 2) (convert 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ea4bf3ac-5fbe-4504-98dc-8655b8ad5f1e)
-    (property "Reference" "IC23" (at 801.37 41.275 0)
+    (property "Reference" "U23" (at 801.37 41.275 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS32" (at 801.37 43.815 0)
@@ -30903,7 +30933,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC23") (unit 2)
+          (reference "U23") (unit 2)
         )
       )
     )
@@ -30996,7 +31026,7 @@
   (symbol (lib_id "74xx:74LS393") (at 653.415 863.6 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ecda9b3b-1809-4134-a988-894c3749b506)
-    (property "Reference" "IC54" (at 660.4 862.33 0)
+    (property "Reference" "U54" (at 660.4 862.33 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS393" (at 660.4 864.87 0)
@@ -31025,7 +31055,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC54") (unit 3)
+          (reference "U54") (unit 3)
         )
       )
     )
@@ -31060,7 +31090,7 @@
   (symbol (lib_id "74xx:74LS192") (at 193.04 69.215 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ed67bb1a-05d9-471a-8af4-9ed7f2f039f1)
-    (property "Reference" "IC20" (at 213.36 66.9991 90)
+    (property "Reference" "U20" (at 213.36 66.9991 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS192" (at 213.36 64.135 90)
@@ -31091,7 +31121,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC20") (unit 1)
+          (reference "U20") (unit 1)
         )
       )
     )
@@ -31125,7 +31155,7 @@
   (symbol (lib_id "Memory_PROM:MB7137") (at 893.445 492.125 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ee8a173d-8492-4e6b-aa9d-757a32bd0229)
-    (property "Reference" "IC91" (at 895.6391 471.805 0)
+    (property "Reference" "U91" (at 895.6391 471.805 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MB7137" (at 895.6391 474.345 0)
@@ -31164,7 +31194,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC91") (unit 1)
+          (reference "U91") (unit 1)
         )
       )
     )
@@ -31173,7 +31203,7 @@
   (symbol (lib_id "74xx:74LS00") (at 734.695 864.235 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ef56c0ce-cd7c-4340-942a-44affefaf4d1)
-    (property "Reference" "IC30" (at 741.045 862.965 0)
+    (property "Reference" "U30" (at 741.045 862.965 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS00" (at 741.045 865.505 0)
@@ -31202,7 +31232,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC30") (unit 5)
+          (reference "U30") (unit 5)
         )
       )
     )
@@ -31211,7 +31241,7 @@
   (symbol (lib_id "74xx:74LS123") (at 461.01 187.325 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ef5be82e-bbd3-4559-bdf0-79ab423b0ea7)
-    (property "Reference" "IC38" (at 461.01 175.26 0)
+    (property "Reference" "U38" (at 461.01 175.26 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS123" (at 461.01 177.8 0)
@@ -31254,7 +31284,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC38") (unit 2)
+          (reference "U38") (unit 2)
         )
       )
     )
@@ -31263,7 +31293,7 @@
   (symbol (lib_id "74xx:74LS07") (at 397.51 276.225 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ef97c705-eff8-4cca-ae5e-673e193191f5)
-    (property "Reference" "IC31" (at 397.51 267.335 0)
+    (property "Reference" "U31" (at 397.51 267.335 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07P" (at 397.51 269.875 0)
@@ -31304,7 +31334,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC31") (unit 1)
+          (reference "U31") (unit 1)
         )
       )
     )
@@ -31365,7 +31395,7 @@
   (symbol (lib_id "74xx:74LS393") (at 876.935 217.805 90) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f0828366-1aaa-444d-aff1-077df2901de9)
-    (property "Reference" "IC19" (at 886.46 216.535 90)
+    (property "Reference" "U19" (at 886.46 216.535 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS393" (at 886.46 219.075 90)
@@ -31394,7 +31424,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC19") (unit 2)
+          (reference "U19") (unit 2)
         )
       )
     )
@@ -31453,7 +31483,7 @@
   (symbol (lib_id "74xx:74LS00") (at 1207.77 153.035 0) (mirror y) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f0fca396-c663-4a6c-8fef-72365c33dde6)
-    (property "Reference" "IC68" (at 1207.7783 144.78 0)
+    (property "Reference" "U68" (at 1207.7783 144.78 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 1207.7783 147.32 0)
@@ -31482,7 +31512,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC68") (unit 3)
+          (reference "U68") (unit 3)
         )
       )
     )
@@ -31491,7 +31521,7 @@
   (symbol (lib_id "74xx:74LS00") (at 796.925 153.035 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f157e3e2-5948-43d7-bdc3-fd4c65935b4c)
-    (property "Reference" "IC8" (at 796.9167 160.655 0)
+    (property "Reference" "U8" (at 796.9167 160.655 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 796.9167 158.115 0)
@@ -31520,7 +31550,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC8") (unit 2)
+          (reference "U8") (unit 2)
         )
       )
     )
@@ -31555,7 +31585,7 @@
   (symbol (lib_id "74xx:74LS07") (at 481.33 192.405 0) (unit 6)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f2d1ab77-97e8-4a01-80f3-306916e0cc70)
-    (property "Reference" "IC31" (at 481.33 184.15 0)
+    (property "Reference" "U31" (at 481.33 184.15 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS07P" (at 481.33 186.69 0)
@@ -31596,7 +31626,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC31") (unit 6)
+          (reference "U31") (unit 6)
         )
       )
     )
@@ -31605,7 +31635,7 @@
   (symbol (lib_id "74xx:74LS00") (at 829.31 32.385 0) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f33d95a5-acc2-4d50-86dc-2d9878649d2d)
-    (property "Reference" "IC8" (at 829.3017 39.37 0)
+    (property "Reference" "U8" (at 829.3017 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 829.3017 36.83 0)
@@ -31634,7 +31664,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC8") (unit 4)
+          (reference "U8") (unit 4)
         )
       )
     )
@@ -31694,7 +31724,7 @@
   (symbol (lib_id "74xx:74LS04") (at 505.46 -64.135 90) (unit 7)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f4928628-c582-473f-80d1-1428bfb680f8)
-    (property "Reference" "IC73" (at 504.19 -70.485 0)
+    (property "Reference" "U73" (at 504.19 -70.485 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS04" (at 506.73 -70.485 0)
@@ -31735,7 +31765,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC73") (unit 7)
+          (reference "U73") (unit 7)
         )
       )
     )
@@ -31744,7 +31774,7 @@
   (symbol (lib_id "74xx:74LS74") (at 296.545 55.245 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f4c05422-9cc8-44f0-8ef7-3e8a60c92386)
-    (property "Reference" "IC50" (at 298.7391 45.72 0)
+    (property "Reference" "U50" (at 298.7391 45.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS74" (at 298.7391 48.26 0)
@@ -31785,7 +31815,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC50") (unit 1)
+          (reference "U50") (unit 1)
         )
       )
     )
@@ -31844,7 +31874,7 @@
   (symbol (lib_id "74xx:74LS04") (at 858.52 861.06 0) (unit 7)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f677bbe5-d2ae-467c-a9a8-b76c3d0bbbbf)
-    (property "Reference" "IC46" (at 865.505 859.79 0)
+    (property "Reference" "U46" (at 865.505 859.79 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS04" (at 865.505 862.33 0)
@@ -31873,7 +31903,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC46") (unit 7)
+          (reference "U46") (unit 7)
         )
       )
     )
@@ -32057,7 +32087,7 @@
   (symbol (lib_id "74xx:74LS393") (at 1108.075 248.92 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f9d916df-524d-44da-ba4c-4b1cc3412a41)
-    (property "Reference" "IC39" (at 1117.6 247.65 90)
+    (property "Reference" "U39" (at 1117.6 247.65 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "74LS393" (at 1117.6 250.19 90)
@@ -32086,7 +32116,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC39") (unit 1)
+          (reference "U39") (unit 1)
         )
       )
     )
@@ -32121,7 +32151,7 @@
   (symbol (lib_id "74xx:74LS00") (at 857.885 334.645 0) (mirror y) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fa4d3afb-2439-48bd-94c2-08fd2047beea)
-    (property "Reference" "IC30" (at 857.8933 325.755 0)
+    (property "Reference" "U30" (at 857.8933 325.755 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS00" (at 857.8933 328.295 0)
@@ -32150,7 +32180,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC30") (unit 4)
+          (reference "U30") (unit 4)
         )
       )
     )
@@ -32159,7 +32189,7 @@
   (symbol (lib_id "74xx:74LS08") (at 770.255 62.23 0) (mirror x) (unit 4)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fa79ad4e-db0f-4119-9c9b-b8903f59a87e)
-    (property "Reference" "IC2" (at 770.2467 70.485 0)
+    (property "Reference" "U2" (at 770.2467 70.485 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS08" (at 770.2467 67.945 0)
@@ -32188,7 +32218,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC2") (unit 4)
+          (reference "U2") (unit 4)
         )
       )
     )
@@ -32222,7 +32252,7 @@
   (symbol (lib_id "74xx:74LS153") (at 942.34 530.225 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fb6204e6-c116-4731-a529-6ec20ed6e8cb)
-    (property "Reference" "IC76" (at 944.5341 505.46 0)
+    (property "Reference" "U76" (at 944.5341 505.46 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS153" (at 944.5341 508 0)
@@ -32253,7 +32283,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC76") (unit 1)
+          (reference "U76") (unit 1)
         )
       )
     )
@@ -32262,7 +32292,7 @@
   (symbol (lib_id "74xx:74LS85") (at 937.895 171.45 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fc09fd49-9194-4c38-a3ed-dcc64e23c414)
-    (property "Reference" "IC11" (at 921.385 165.735 90)
+    (property "Reference" "U11" (at 921.385 165.735 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS85" (at 921.385 167.64 90)
@@ -32293,7 +32323,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC11") (unit 1)
+          (reference "U11") (unit 1)
         )
       )
     )
@@ -32327,7 +32357,7 @@
   (symbol (lib_id "74xx:74LS85") (at 979.805 171.45 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fd7638e0-f0aa-41f2-88dd-9426f9e1e6e2)
-    (property "Reference" "IC10" (at 963.295 163.83 90)
+    (property "Reference" "U10" (at 963.295 163.83 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS85" (at 963.295 165.735 90)
@@ -32358,7 +32388,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC10") (unit 1)
+          (reference "U10") (unit 1)
         )
       )
     )
@@ -32367,7 +32397,7 @@
   (symbol (lib_id "74xx:74LS123") (at 459.105 78.105 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fe5755b3-264f-4065-84ef-44df66b36737)
-    (property "Reference" "IC49" (at 459.105 66.04 0)
+    (property "Reference" "U49" (at 459.105 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS123" (at 459.105 68.58 0)
@@ -32410,7 +32440,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC49") (unit 1)
+          (reference "U49") (unit 1)
         )
       )
     )
@@ -32419,7 +32449,7 @@
   (symbol (lib_id "74xx:74LS10") (at 744.855 120.015 0) (unit 3)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fe64aba5-4a73-4832-a22b-c77ef9fecd37)
-    (property "Reference" "IC28" (at 744.8467 112.395 0)
+    (property "Reference" "U28" (at 744.8467 112.395 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS10" (at 744.8467 114.935 0)
@@ -32448,7 +32478,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC28") (unit 3)
+          (reference "U28") (unit 3)
         )
       )
     )
@@ -32457,7 +32487,7 @@
   (symbol (lib_id "74xx:74LS00") (at 918.21 -31.115 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ff061e4b-49bc-4a94-8ae9-0570982c6d1a)
-    (property "Reference" "IC8" (at 924.56 -32.385 0)
+    (property "Reference" "U8" (at 924.56 -32.385 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74LS00" (at 924.56 -29.845 0)
@@ -32486,7 +32516,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC8") (unit 5)
+          (reference "U8") (unit 5)
         )
       )
     )
@@ -32520,7 +32550,7 @@
   (symbol (lib_id "74xx:74LS123") (at 676.275 295.275 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ff3aeff5-c136-4234-b73e-47909b3b08d2)
-    (property "Reference" "IC1" (at 676.275 282.575 0)
+    (property "Reference" "U1" (at 676.275 282.575 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "74LS123" (at 676.275 285.115 0)
@@ -32551,7 +32581,7 @@
     (instances
       (project "Main"
         (path "/e4f37d67-9895-4780-a4e2-a8f1e304105b"
-          (reference "IC1") (unit 2)
+          (reference "U1") (unit 2)
         )
       )
     )
