@@ -494,7 +494,7 @@
         (name "D6" (effects (font (size 1.27 1.27))))
         (number "7" (effects (font (size 1.27 1.27))))
       )
-      (pin power_in line (at 0 -13.335 90) (length 2.54)
+      (pin power_in line (at 0 -12.7 90) (length 2.54)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "8" (effects (font (size 1.27 1.27))))
       )
