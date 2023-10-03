@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Memory_PROM")(type "KiCad")(uri "../Main/Memory_PROM.kicad_sym")(options "")(descr ""))
+)
